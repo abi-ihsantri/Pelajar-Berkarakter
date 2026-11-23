@@ -33,7 +33,7 @@ function AdminPage() {
   const [tab, setTab] = useState<Tab>("ringkas");
 
   useEffect(() => {
-    useAdminStore.persist.rehydrate().finally(() => setReady(true));
+    void Promise.resolve(useAdminStore.persist.rehydrate()).finally(() => setReady(true));
   }, []);
 
   const loggedIn = ready && store.isLoggedIn();
