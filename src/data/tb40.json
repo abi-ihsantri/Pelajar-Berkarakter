@@ -1,0 +1,1529 @@
+{
+  "traits": [
+    {
+      "slug": "cita-cita-tinggi",
+      "name": "Cita-cita tinggi",
+      "definition": "berjuang dan belajar keras untuk meraih cita-cita yang sangat tinggi",
+      "profession": "Team Perumus Visi Misi, Team Litbang Pendidikan atau lembaga lainnya, Pemimpin, Entrepreneur, Perencana Jangka Panjang, Visioner, Pengembang produk baru, Pengembang Perusahaan",
+      "major": "Ekonomi Syariah, Manajemen, Marketing, Manajemen Lingkungan",
+      "type": "ti"
+    },
+    {
+      "slug": "perfeksionis",
+      "name": "Perfeksionis",
+      "definition": "mampu berbuat yang terbaik dalam amalan ibadah maupun dalam memberikan manfaat terhadap diri, orang lain, atau lainnya",
+      "profession": "Team Penjamin Mutu Pendidikan, Quality Controller (QC), Peran untuk membantu orang hebat menjadi sukses seperti Pelatih, Manajer, Mentor, Guru, Transformational leader",
+      "major": "Tadriibud Du’aat, Hadits, Fiqih, Syariah, Manajemen, Manajemen Bisnis, Ilmu Sains dan Teknologi",
+      "type": "ti"
+    },
+    {
+      "slug": "harga-diri",
+      "name": "Harga diri",
+      "definition": "mampu bersikap kuat, tegas, dan tangguh dalam mempertahankan kemuliaan atau harga dirinya, sehingga tidak direndahkan dan dapat mengalahkan pihak lain",
+      "profession": "Utusan, Duta Besar, Da’i, Da’iyah, Guru, Pengajar, Pembawa Misi, Leader",
+      "major": "Ilmu Aqidah, Syariah, Fiqih, Tadriibud Du’aat, Keguruan, Hubungan Internasional, Manajemen",
+      "type": "ti"
+    },
+    {
+      "slug": "wibawa",
+      "name": "Wibawa",
+      "definition": "memiliki sikap tenang tapi kelihatan tangguh, tidak banyak bicara, tidak tergesa tapi mendahului dalam melakukan semua urusan",
+      "profession": "Trainer, Pendamping pelatihan, Peningkatan SDM, Konsultan, Team penanganan masalah lembaga/perusahaan",
+      "major": "Teknik Sipil, Teknik Listrik, Teknik Mesin, Manajemen",
+      "type": "ti"
+    },
+    {
+      "slug": "tekad",
+      "name": "Tekad",
+      "definition": "memiliki tekad kuat untuk segera memulai suatu tindakan atau amalan",
+      "profession": "Perintis atau pelopor, Team penggerak, Entrepreneur, Sales, Pengelola usaha-usaha baru,  atau usaha yang memerlukan perubahan besar",
+      "major": "Manajemen dan Bisnis, Teknologi Terapan, Marketing, Kewirausahaan, Pekerjaan Umum",
+      "type": "ti"
+    },
+    {
+      "slug": "semangat",
+      "name": "Semangat",
+      "definition": "memiliki semangat dan bekerja keras untuk menyelesaikan apa yang sedang dilakukan",
+      "profession": "Penyelenggara Lembaga pendidikan, Pemborong Proyek, Tenaga Penjual/Sales, Teknisi Proyek, Teknisi Lapangan, Pekerja Lapangan, Relawan, Petugas SAR, Pemadam Kebakaran",
+      "major": "Teknik Sipil, Teknik Permesinan, Teknik Instalasi dan Tenaga Listrik, Teknik perkayuan, Teknik Otomotif, Keperawatan, Kebidanan, Marketing, dan jurusan lain yang banyak menumbuhkan sifat kerja keras",
+      "type": "ti"
+    },
+    {
+      "slug": "disiplin",
+      "name": "Disiplin",
+      "definition": "teguh memegang janji yang telah disepakati, walaupun kondisinya sebagai pihak yang dicurangi",
+      "profession": "Pengajar Aqidah, Pelayanan Masyarakat, Pelayanan Pelanggan, Birokrat, Relator, Account Sales, Manajer, Keuangan, Quality Control, Keamanan",
+      "major": "Ilmu Aqidah, Akuntansi, Administrasi, Manajemen, Sosiologi, Ilmu Hukum",
+      "type": "ti"
+    },
+    {
+      "slug": "berani",
+      "name": "Berani",
+      "definition": "teguh dan berani dalam menghadapi orang untuk mengendalikannya, mengaturnya, dan menguasainya",
+      "profession": "Tentara, TNI, Komandan, Pengusaha, Petugas Keamanan, Sales, Negosiator, Wartawan, Pengacara, HRD, Pembelian",
+      "major": "Ilmu Hukum Islam, Syariah, Akademi Militer, Akademi Kepolisian, Manajemen, Manajemen Bisnis",
+      "type": "te"
+    },
+    {
+      "slug": "cemburu",
+      "name": "Cemburu",
+      "definition": "memiliki rasa tidak senang jika syariat, aturan, hak, atau ketentuan lain yang telah ditetapkan dilanggar oleh orang lain",
+      "profession": "Penegak Peraturan, Penegak Disiplin, Pengawas, Mandor, Evaluator, Auditor, Supervisor, Manajer.",
+      "major": "Administrasi, manajemen, manajemen bisnis, Sekolah Tinggi Pemerintahan Dalam Negeri, Akademi Militer, Akademi Kepolisian",
+      "type": "te"
+    },
+    {
+      "slug": "kompetisi",
+      "name": "Kompetisi",
+      "definition": "senang bersaing dengan usaha semaksimal mungkin agar dirinya menjadi yang paling unggul dari yang lainnya",
+      "profession": "Bidang Periklanan, Motivator, Competition Organizer, Team Litbang Perusahaan, Konsultan atau pengelola perusahaan dalam menghadapi persaingan, Sales, Pelatih Olahraga",
+      "major": "Manajemen, Manajemen Bisnis, Olahraga dan Kesehatan, Sekolah Pelatih",
+      "type": "te"
+    },
+    {
+      "slug": "nasehat",
+      "name": "Nasehat",
+      "definition": "senang memberikan nasehat, saran, dorongan kepada orang lain agar menjadi lebih baik",
+      "profession": "Penasehat, Da’i, Da’iyah, Guru, Konselor, Konsultan, Pemimpin, Manajer, Leader, Supervisor, Evaluator, Pengawas, Pelatih, Pelayanan Pelanggan (Customer Service)",
+      "major": "Ilmu Agama, Ilmu Komunikasi, Ilmu Manajemen, Ilmu Hukum, Psikologi, Bimbingan Konseling",
+      "type": "te"
+    },
+    {
+      "slug": "fasih-bicara",
+      "name": "Fasih bicara",
+      "definition": "memiliki kemampuan untuk menyampaikan sesuatu dengan ungkapan sederhana, meskipun sebenarnya rumit, sehingga mudah untuk dipahami",
+      "profession": "Guru Tajwid Qira’ah, Qari’, Da’i, Guru (pengajar), Dosen, Motivator, Penyuluh Masyarakat, Public Relation, Duta, Sales, Marketing, Humas, Juru Bicara, Presenter, MC, Pengacara, Layanan Pelanggan, Penulis",
+      "major": "Pendidikan Agama, Konseling Keluarga, Keguruan, Ilmu Komunikasi, Hubungan Internasional, Marketing, Manajemen, Manajemen Bisnis",
+      "type": "te"
+    },
+    {
+      "slug": "menolong",
+      "name": "Menolong",
+      "definition": "senang membantu orang lain yang mengalami kesusahan (atau terzhalimi) hingga terlepas dari kesusahan tersebut",
+      "profession": "Polisi, Penegak Hukum, Relawan, Pengacara, Lembaga Bantuan Hukum (LBH), Hakim, atau profesi lain yang terkait dengan bantuan terhadap orang yang terzhalimi",
+      "major": "PAI, Syari’ah, Ilmu Hukum, Ilmu Sosial, Akademi Kepolisian, Akademi Militer",
+      "type": "te"
+    },
+    {
+      "slug": "dermawan",
+      "name": "Dermawan",
+      "definition": "senang memberikan sesuatu tanpa diminta dan tidak mengharap ucapan terima kasih atau bentuk balasan lainnya",
+      "profession": "Relawan, Petugas Sosial, Konselor, Perawat, Pengelola LAZIZ, Pengelola Baitul Maal, Panitia Bulan Amal, Entrepreneur, Leader, manajer",
+      "major": "Pendidikan Agama Islam, Ilmu Fiqih, Manajemen, Keperawatan, Sosiologi, Bimbingan Konseling, Manajemen Bisnis",
+      "type": "te"
+    },
+    {
+      "slug": "cerdik",
+      "name": "Cerdik",
+      "definition": "cepat mengerti (tentang situasi dan sebagainya) dan pandai mencari pemecahannya,  panjang atau banyak akalnya",
+      "profession": "Konsultan, Konselor, Team Penanganan Masalah, Perencana Strategi, Manajer, Leader, Team Pencari Solusi Bagi Perusahaan/Lembaga Yang Bermasalah",
+      "major": "Ilmu Fiqih, Ekonomi Syariah, Manajemen, Sosiologi, Hubungan Internasional, atau jurusan lain yang banyak menumbuhkan kemampuan untuk menemukan solusi",
+      "type": "si"
+    },
+    {
+      "slug": "cerdas",
+      "name": "Cerdas",
+      "definition": "memiliki kecepatan dan ketajaman berpikir dalam memahami, menghafal, menganalisa, dan menyimpulkan sesuatu yang dihadapkan kepadanya",
+      "profession": "Ahli ilmu (Agama atau umum: Fisika, kimia, dll), Analis, Periset (teknologi, pemasaran, keuangan, atau kesehatan), Manajemen Database, Editor, Manajemen Risiko, Accounting, Programmer",
+      "major": "Jurusan Ilmu Hadits, Ilmu Al Qur’an, Fiqih, atau ilmu Agama lainnya, Teknik kimia, Fisika, Matematika, Teknik Komputer,  IT Programmer, Akuntansi",
+      "type": "si"
+    },
+    {
+      "slug": "prasangka-baik",
+      "name": "Prasangka baik",
+      "definition": "memiliki kecenderungan menduga yang baik dari pada yang buruk walaupun fakta yang dilihatnya mendukung kepada dugaan yang buruk",
+      "profession": "Hakim, Pendidik, Guru, Pengajar, Juru Damai, Mediator, Relator, Pelayanan Publik",
+      "major": "Hukum Islam, Keguruan, Manajemen, Ilmu Komunikasi, Manajemen Bisnis",
+      "type": "si"
+    },
+    {
+      "slug": "jujur",
+      "name": "Jujur",
+      "definition": "memiliki sikap mudah menerima kebenaran serta berkata dan berbuat  sesuai dengan apa yang sebenarnya",
+      "profession": "Pengelola Dana Umat (Donasi), Kurir/Duta, Bidang Keuangan, Pengelola Baitul Mal, Team Belanja (Pengadaan Sarana Prasarana), Hakim, Jaksa",
+      "major": "Administrasi Keuangan, Hukum Islam, Ilmu Hukum, Manajemen",
+      "type": "si"
+    },
+    {
+      "slug": "diam",
+      "name": "Diam",
+      "definition": "memiliki sikap banyak diam dan jika berbicara seperlunya atau yang bermanfaat saja",
+      "profession": "Pelayan Umat, Ajudan, Pelaksana Lapangan, Penulis, Peneliti, Analis",
+      "major": "Teknik Kimia, Teknik Informatika (IT), Administrasi Perkantoran",
+      "type": "si"
+    },
+    {
+      "slug": "hikmah",
+      "name": "Hikmah",
+      "definition": "memiliki keilmuan yang mendalam tentang suatu pengetahuan hingga dapat menempatkan sesuatu pada kondisi yang sebenarnya",
+      "profession": "Kosultan, Konselor, Mufti, Da’i/yah, Psikolog, Petugas Pembinaan Keluarga, Leader dalam membangun team yang berbeda kelompok, atau membantu orang agar merasa berguna",
+      "major": "Ilmu Aqidah, Ilmu Jiwa, Ilmu Adab, Sastra, Syariah, Psikologi, Manajemen",
+      "type": "si"
+    },
+    {
+      "slug": "firasat",
+      "name": "Firasat",
+      "definition": "memiliki ketajaman ilmu yang mampu menyimpulkan perkara batiniyah dengan memperhatikan tanda-tanda lahiriyah yang dapat dilihat, didengar, atau dirasakan",
+      "profession": "Penasehat, Konsultan, Perumus Visi Misi, Entrepreneur, Event Organizer (EO), Tour Leader, Manajer",
+      "major": "Ilmu Aqidah, Ilmu Ushuluddin, Ilmu Jiwa, Manajemen",
+      "type": "si"
+    },
+    {
+      "slug": "saling-bantu",
+      "name": "Saling bantu",
+      "definition": "senang bekerjasama dengan orang lain untuk mencapai tujuan bersama",
+      "profession": "Penggerak dakwah, Guru, Pembangun jaringan antara orang-orang dengan cara pandang yang berbeda, Juru Damai, Penasehat, Wirausahawan, Manajer",
+      "major": "Dakwah, Manajemen, Ilmu Komunikasi, Ilmu Ekonomi, Keguruan",
+      "type": "se"
+    },
+    {
+      "slug": "bersatu",
+      "name": "Bersatu",
+      "definition": "senang bersatu dan berkumpul  karena adanya kesamaan",
+      "profession": "Da’i, Marketing, Pengelola lembaga sosial, Motivator kelompok, Wakil suara minoritas, Pemimpin kelompok dengan latar budaya beragam, Mentor bagi mereka yang baru bergabung di dalam organisasi",
+      "major": "Dakwah, Manajemen Pendidikan, Manajemen Bisnis, Sosiologi",
+      "type": "se"
+    },
+    {
+      "slug": "adil",
+      "name": "Adil",
+      "definition": "bersikap tengah-tengah, tepat dalam menempatkan sesuatu pada tempatnya tanpa berlebihan dan tidak kurang",
+      "profession": "Hakim, Petugas pembinaan keluarga, Konselor masalah keluarga, Mediator, Petugas kontrol terhadap kesesuaian atas standar seperti kepatuhan kepada aturan, Quantity Surveyor, Petugas Commisioning atau peran yang bisa memiliki kekuatan untuk menyamakan aturan main dan peran lainnya  yang terkait dengan sifat adil",
+      "major": "Hukum Islam, Syariah, Konseling keluarga, Hukum Publik, Hukum Perdata, Hukum Internasioanal, Ilmu Hukum, Hukum Pidana, atau jurusan lainnya yang terkait dengan keadilan",
+      "type": "se"
+    },
+    {
+      "slug": "canda",
+      "name": "Canda",
+      "definition": "senang bercanda tapi tidak menyinggung orang lain, santai dalam bergaul",
+      "profession": "MC, Pranata cara (Jawa), Penerima Tamu, Motivator, Comentator",
+      "major": "Ilmu Komunikasi, Marketing, Keguruan",
+      "type": "se"
+    },
+    {
+      "slug": "berseri-seri",
+      "name": "Berseri-seri",
+      "definition": "berseri-seri wajahnya, murah senyum, berkata lembut, dan memberikan penyambutan yang baik karena rasa gembira ketika bertemu orang lain",
+      "profession": "Guru, Konselor, Presenter, Trainer, Motivator, Pemandu Kegiatan Anak, Pelayan Publik, Tour Leader (Pemandu Wisata)",
+      "major": "Ilmu Keguruan, Ilmu Komunikasi, PGTK (Pendidikan Guru TK), Keperawatan, Psikologi, Kepariwisataan, Pelayanan Publik",
+      "type": "se"
+    },
+    {
+      "slug": "lemah-lembut",
+      "name": "Lemah lembut",
+      "definition": "mampu mengambil sisi termudah dalam semua urusan, sehingga lemah-lembut dalam perkataan dan perbuatan",
+      "profession": "Guru, Pendidik, Penasehat, Konsultan, Manajer, Supervisor, Pengawas, Marketing, Customer Service, Leader",
+      "major": "Syari’ah, Keguruan, Psikologi Islam, Manajemen, Manajemen Bisnis",
+      "type": "se"
+    },
+    {
+      "slug": "belas-kasih",
+      "name": "Belas kasih",
+      "definition": "berbelas kasihan dan bersimpati karena ingin memberikan yang terbaik bagi yang dibelas kasihi",
+      "profession": "Konselor, Pembinaan Keluarga Sejahtera, Guru PAUD-TK, Psikolog, Sales, HRD, Perawat, Operator Telepon, Psikiater, Dispatcher, Layanan Pelanggan",
+      "major": "PAI, Keguruan, Tarbiyah, Ilmu Sosial, Manajemen, Manajemen Bisnis, Psikologi, atau jurusan lain yang terkait dengan penguatan empati atau perasaan",
+      "type": "se"
+    },
+    {
+      "slug": "jaga-diri",
+      "name": "Jaga diri",
+      "definition": "mampu menahan diri terhadap dorongan hawa nafsu dalam dirinya sehingga tidak melakukan hal yang dilarang, baik dalam harta, ucapan, atau perbuatan",
+      "profession": "Pengelola Keuangan Umat, Bendahara, Team Sarana Prasarana, Team Belanja, Pemimpin, Akuntan",
+      "major": "Syariah, Hukum Islam, Manajemen Keuangan, Akuntansi, Administrasi",
+      "type": "ri"
+    },
+    {
+      "slug": "jaga-rahasia",
+      "name": "Jaga rahasia",
+      "definition": "mampu menutupi suatu kabar (bukan aib) agar tidak tersebar untuk mencegah timbulnya keburukan jika tersebar",
+      "profession": "Hakim, Pengacara, Konselor, Intelijen, Administrator, Pengelola Dokumen Negara, Psikolog, Kepolisian, Militer, Keuangan Negara",
+      "major": "Hukum Islam, Syariah, Sekolah Tinggi Pertahanan Nasional, Politeknik Keuangan Negara, Akademi Kepolisian, Akademi Militer, Administrasi, Akuntansi",
+      "type": "ri"
+    },
+    {
+      "slug": "jaga-aib",
+      "name": "Jaga aib",
+      "definition": "mampu menutupi dan tidak menampakkan atau menceritakan aib diri sendiri atau orang lain",
+      "profession": "Ajudan, Asisten Pribadi, Sekretaris, Agen Rahasia, Notaris",
+      "major": "Akademi Kepolisian, Akademi Militer, Ilmu Kenotariatan, Administrasi",
+      "type": "ri"
+    },
+    {
+      "slug": "malu",
+      "name": "Malu",
+      "definition": "merasa betapa besar pemberian/hak yang diterimanya, namun merasa dirinya masih memiliki banyak keterbatasan dan kekurangan, sehingga merasa tidak pantas untuk mendapatkannya",
+      "profession": "Ahli Hikmah, Sastrawan, Penulis, Designer Fashion, Designer Interior, Arsitek, Kaligrafer, dsb.",
+      "major": "Ilmu Jiwa, Sastra, Arsitektur, Tata Busana, Seni, Desain Komunikasi Visual, Animasi, Fotografi, dsb.",
+      "type": "ri"
+    },
+    {
+      "slug": "sederhana",
+      "name": "Sederhana",
+      "definition": "rela menerima apapun yang diberikan kepadanya dan merasa cukup terhadap apa yang telah diterimanya",
+      "profession": "Team Perencana Anggaran Belanja Lembaga, Team Penghemat Anggaran Perusahaan, Petugas Lapangan, Explorer, Relawan",
+      "major": "Ilmu Ekonomi, Manajemen Bisnis, Ilmu Sosial, Ilmu Manajemen Sumber Daya Alam, Akuntansi, atau jurusan lain yang terkait dengan perhitungan nilai ekonomis",
+      "type": "ri"
+    },
+    {
+      "slug": "sabar",
+      "name": "Sabar",
+      "definition": "mampu menahan diri untuk tidak bereaksi (menolak/membalas) terhadap apa yang diterimanya, baik berupa tekanan dari luar, kesulitan hidup, maupun berupa hambatan dalam meraih apa yang diharapkan",
+      "profession": "Da’i, Khadimul Ummah, Public Serving, Pengemban Misi, Pelayanan Pelanggan, Maintenance, Perawat, Pekerja Sosial, Relawan",
+      "major": "Syari’ah, Keperawatan, Kebidanan, Ilmu Sosial, Kepariwisataan, Manajemen",
+      "type": "ri"
+    },
+    {
+      "slug": "tanggung-jawab",
+      "name": "Tanggung jawab",
+      "definition": "senang jika diberi tanggung jawab serta menunaikan akad atau janji yang disepakati dengan sebaik-baiknya",
+      "profession": "Pengelola Lembaga Pendidikan, Pengelola Baitul Maal, Pengasuh Anak Yatim, Pedagang, Pengelola Dana Umat, Bendahara, Account Sales, Manajer Umum, Manajer Keuangan, Quality Controller, Keamanan, dan peran lainnya  yang terkait dengan sifat amanah atau tanggung jawab",
+      "major": "Keguruan/tarbiyah, akuntansi, bisnis dan manajemen, administrasi",
+      "type": "re"
+    },
+    {
+      "slug": "melayani",
+      "name": "Melayani",
+      "definition": "memiliki kecenderungan untuk lebih mendahulukan orang lain dari pada dirinya sendiri dan rela berkorban dalam memberikan manfaat atau dalam menghindari sesuatu, walaupun dirinya lebih membutuhkannya",
+      "profession": "Da’i/da’iyah, Pengelola lembaga sosial seperti panti asuhan, Laziz, Baitul Maal; Konselor, Pelayanan Pelanggan, Maintenance, Perawat, Pekerja Sosial, Relawan, Team Palang Merah",
+      "major": "Tadriibud Du’aat, Tarbiyah, Penyuluh Masyarakat, Kesehatan Masyarakat, Keperawatan, Kebidanan, Kedokteran, Kepalangmerahan",
+      "type": "re"
+    },
+    {
+      "slug": "tidak-tergesa",
+      "name": "Tidak tergesa",
+      "definition": "tenang, dan mencari kejelasan terlebih dahulu sebelum melakukan tindakan",
+      "profession": "Mufti, Penasehat, Konsultan, Perumus peraturan, Perancang Sistem Keamanan, Pengawas, Pilot, Urusan Legal, Membuat Kontrak Bisnis yang baik atau memastikan kesesuaian dengan peraturan atau standar atau kode atau juga peran yang terkait dengan masalah keuangan dan atau keamanan",
+      "major": "Teknik Penerbangan, Teknik Mesin, Teknik Konstruksi Bangunan, Keselamatan Lalu Lintas, Teknik Listrik, Akuntansi, Manajemen Keuangan, dan jurusan lain yang terkait dengan kehati-hatian, keamanan, dan ketelitian",
+      "type": "re"
+    },
+    {
+      "slug": "santun",
+      "name": "Santun",
+      "definition": "memiliki kemampuan menahan diri untuk tidak memarahi, membalas, atau memberikan hukuman walaupun mampu melakukannya",
+      "profession": "Pelayanan Masyarakat Umum, Rahabilitasi Kenakalan Remaja, Perawat Rumah Sakit, Guru (pengajar), Pelayanan Pelanggan (Customer Service), Sales, Manajer, Supervisor",
+      "major": "Keperawatan, Ilmu Komunikasi, Keguruan, Kepariwisataan, Marketing, Manajemen",
+      "type": "re"
+    },
+    {
+      "slug": "penuh-cinta",
+      "name": "Penuh cinta",
+      "definition": "memiliki kecintaan yang mendalam dan khusus terhadap sesuatu untuk memperkuat dan meperdalam hubungan",
+      "profession": "Guru Privat, Terapist, Konselor, Psikolog, Guru PAUD, Peternak Hewan Rumahan, Perawat",
+      "major": "Tarbiyah, Pendidikan Guru TK (PGTK), Keguruan, Pendidikan Terapist, Keperawatan, Peternakan",
+      "type": "re"
+    },
+    {
+      "slug": "rendah-hati",
+      "name": "Rendah hati",
+      "definition": "memiliki rasa tidak suka menampakkan atau ditampakkan kelebihannya meskipun memiliki kemampuan dan kelebihan",
+      "profession": "Guru TK, Konselor, Pemimpin, Relawan, Pengasuh Panti Asuhan, Penasehat, public serving",
+      "major": "Dakwah, Psikologi, Sastra, Sosiologi, Ilmu Komunikasi, Keguruan, Ilmu Kejiwaan",
+      "type": "re"
+    }
+  ],
+  "types": [
+    {
+      "key": "ti",
+      "name": "Bekerja keras",
+      "trait": "Ananda gigih, tangguh, dan berusaha mencapai hasil terbaik. Ananda tenang, tidak banyak bicara, serta teguh pada tujuan dan harga dirinya.",
+      "parent": [
+        "Beri target yang jelas dan tantangan bertahap.",
+        "Hargai usaha, bukan hanya hasil.",
+        "Bicara secara pribadi saat menegur; latih ia menerima kesalahan dan beristirahat."
+      ],
+      "teacher": [
+        "Beri tugas proyek atau tanggung jawab yang bermakna.",
+        "Koreksi secara pribadi, bukan di depan kelas.",
+        "Beri kesempatan memimpin kegiatan yang membutuhkan ketekunan."
+      ],
+      "avoid": "Merendahkan atau membandingkan dengan temannya di depan orang lain; menuntut target di luar kemampuannya.",
+      "sentence": "Ibu lihat kamu sudah berusaha sungguh-sungguh. Bagian mana yang ingin kamu perbaiki dulu?",
+      "classroom": "Beri proyek jangka panjang dengan target bertahap; koreksi secara pribadi; hindari membandingkan di depan kelas."
+    },
+    {
+      "key": "te",
+      "name": "Mempengaruhi",
+      "trait": "Ananda berani tampil, suka mengatur dan memimpin, pandai bicara, senang berlomba, dan peka terhadap aturan yang dilanggar.",
+      "parent": [
+        "Beri peran memimpin di rumah, misalnya membagi tugas.",
+        "Tetapkan batas yang jelas dan konsisten.",
+        "Latih ia mendengar pendapat lain dan menerima kekalahan."
+      ],
+      "teacher": [
+        "Jadikan ketua kelompok, pemandu acara, atau pendamping sebaya.",
+        "Salurkan semangat bersaing ke lomba yang sehat.",
+        "Jelaskan alasan di balik aturan agar ia mau mengikutinya."
+      ],
+      "avoid": "Membungkam di depan teman tanpa penjelasan; mengabaikan gagasannya.",
+      "sentence": "Kamu pandai memimpin. Bantu bagi tugas, tapi dengarkan pendapat adikmu dulu ya.",
+      "classroom": "Beri peran ketua kelompok, pemandu acara, atau pendamping sebaya; salurkan persaingan ke lomba sehat; jelaskan alasan di balik aturan."
+    },
+    {
+      "key": "si",
+      "name": "Berpikir",
+      "trait": "Ananda suka merenung, cepat memahami, berbicara seperlunya, dan senang berpikir mendalam.",
+      "parent": [
+        "Beri waktu berpikir sebelum menjawab.",
+        "Ajak diskusi dengan pertanyaan “mengapa” dan “bagaimana”.",
+        "Sediakan bacaan, teka-teki, atau proyek yang bisa ia kerjakan sendiri."
+      ],
+      "teacher": [
+        "Beri tugas analisis atau penelitian kecil.",
+        "Izinkan menulis jawaban sebelum bicara.",
+        "Jangan menunjuk mendadak untuk tampil."
+      ],
+      "avoid": "Menuntut jawaban cepat; mengira anak pendiam berarti tidak paham.",
+      "sentence": "Ibu tunggu, tidak perlu buru-buru. Ceritakan bagaimana kamu memikirkannya.",
+      "classroom": "Beri tugas analisis dan waktu berpikir; sediakan sudut baca yang tenang; hindari menunjuk mendadak."
+    },
+    {
+      "key": "se",
+      "name": "Bekerjasama",
+      "trait": "Ananda mudah bergaul, ceria, adil, senang bekerja sama, dan menghindari konflik.",
+      "parent": [
+        "Beri ruang untuk bersosialisasi dan kegiatan kelompok.",
+        "Latih berani berkata “tidak” dan menyampaikan pendapat yang berbeda.",
+        "Arahkan keceriaannya agar tetap fokus saat mengerjakan tugas."
+      ],
+      "teacher": [
+        "Gunakan kerja kelompok dengan pembagian peran yang jelas.",
+        "Jadikan penengah atau penyambung antarteman.",
+        "Beri tugas dengan batas waktu agar obrolan tidak menyita waktu belajar."
+      ],
+      "avoid": "Mengucilkan dalam waktu lama; menganggap sifat suka bercanda berarti tidak serius.",
+      "sentence": "Kamu pandai membuat suasana enak. Selesaikan tugasmu dulu, lalu kita main bersama.",
+      "classroom": "Gunakan kerja kelompok dengan pembagian peran jelas; jadikan penengah antarteman; beri tugas memiliki batas waktu."
+    },
+    {
+      "key": "ri",
+      "name": "Berperasaan",
+      "trait": "Ananda peka, pemalu, sabar, dan sederhana. Ananda juga pandai menjaga diri serta menyimpan rahasia.",
+      "parent": [
+        "Ciptakan suasana aman untuk bercerita.",
+        "Puji usaha kecilnya.",
+        "Beri ruang berekspresi lewat menulis, menggambar, atau karya lain."
+      ],
+      "teacher": [
+        "Beri kesempatan bicara secara pribadi.",
+        "Hargai karyanya dan tunjuk dengan lembut.",
+        "Perhatikan bila ia terlalu memendam perasaan."
+      ],
+      "avoid": "Membentak atau membuka kekurangannya di depan orang; memaksa bercerita.",
+      "sentence": "Kalau belum ingin cerita, tidak apa-apa. Ibu ada kapan pun kamu siap.",
+      "classroom": "Sediakan ruang bicara secara pribadi; hargai karya tulis dan gambar; pantau santri yang terlalu memendam."
+    },
+    {
+      "key": "re",
+      "name": "Melayani",
+      "trait": "Ananda cenderung mengutamakan orang lain, bertanggung jawab, santun, dan penuh kasih.",
+      "parent": [
+        "Beri tanggung jawab yang sesuai usianya.",
+        "Ajari membedakan membantu dan dimanfaatkan.",
+        "Tanyakan kebutuhannya sendiri agar tidak selalu mengalah."
+      ],
+      "teacher": [
+        "Jadikan asisten atau pendamping sebaya.",
+        "Latih menyampaikan kebutuhan dan menolak dengan santun.",
+        "Berikan apresiasi atas kebaikannya."
+      ],
+      "avoid": "Membiarkan ia terus dibebani tugas teman; menganggap kebaikannya sudah semestinya.",
+      "sentence": "Terima kasih sudah membantu. Sekarang giliran kamu, apa yang kamu butuhkan?",
+      "classroom": "Jadikan pendamping sebaya atau asisten; latih menyampaikan kebutuhan sendiri; beri apresiasi rutin."
+    }
+  ],
+  "social": [
+    {
+      "key": "i",
+      "name": "Introvert",
+      "trait": "Energi Ananda pulih saat menyendiri; lebih nyaman dengan sedikit orang.",
+      "parent": [
+        "Sediakan waktu tenang setiap hari.",
+        "Perkenalkan situasi ramai secara bertahap."
+      ],
+      "teacher": [
+        "Beri kesempatan berkontribusi tanpa harus tampil di depan.",
+        "Beri aba-aba sebelum giliran bicara."
+      ],
+      "avoid": "Memaksa tampil atau bergaul secara mendadak.",
+      "sentence": "Kamu boleh menyendiri dulu. Kalau sudah siap, kita coba bersama teman."
+    },
+    {
+      "key": "e",
+      "name": "Ekstrovert",
+      "trait": "Energi Ananda bertambah saat bertemu orang lain, dan Ananda senang berkegiatan bersama.",
+      "parent": [
+        "Beri kesempatan berkegiatan bersama teman.",
+        "Latih waktu fokus mandiri secara bertahap."
+      ],
+      "teacher": [
+        "Libatkan dalam diskusi dan kerja kelompok.",
+        "Beri tugas mandiri berdurasi singkat."
+      ],
+      "avoid": "Menyuruh diam terlalu lama tanpa penyaluran.",
+      "sentence": "Selesaikan bagian ini sendiri 15 menit, lalu kamu boleh berbagi dengan teman."
+    },
+    {
+      "key": "a",
+      "name": "Ambivert",
+      "trait": "Ananda merasa nyaman saat bersama orang lain maupun saat menyendiri, bergantung pada situasi.",
+      "parent": [
+        "Tanyakan apa yang ia butuhkan saat ini: ditemani atau sendiri.",
+        "Ikuti ritmenya, jangan menyamakan dengan anak lain."
+      ],
+      "teacher": [
+        "Beri pilihan kerja mandiri atau kelompok.",
+        "Amati kapan ia paling bersemangat."
+      ],
+      "avoid": "Memberi label “pemalu” atau “heboh” secara tetap.",
+      "sentence": "Hari ini kamu ingin belajar sendiri atau bersama teman?"
+    }
+  ],
+  "pairs": [
+    {
+      "from": "Bekerja Keras",
+      "to": "Bekerja Keras",
+      "advice": "Dua orang yang gigih dapat saling menguatkan, tetapi juga dapat saling bersikap keras. Sepakati target bersama dan tentukan pihak yang mengambil keputusan. Setelah itu, sisihkan waktu untuk saling mengakui hasil kerja.",
+      "example": "Kita sama-sama ingin hasil terbaik. Mari sepakati target dan siapa yang memutuskan, lalu kita rayakan hasilnya bersama."
+    },
+    {
+      "from": "Bekerja Keras",
+      "to": "Mempengaruhi",
+      "advice": "Ia cenderung cepat berbicara dan mengatur, sedangkan Anda cenderung diam lalu bekerja sendiri. Sampaikan keberatan secara singkat dan langsung sejak awal agar masalah tidak menumpuk. Biarkan ia menjadi juru bicara.",
+      "example": "Saya ingin menyampaikan satu keberatan sekarang agar tidak menumpuk. Setelah itu, silakan Anda yang berbicara mewakili tim."
+    },
+    {
+      "from": "Bekerja Keras",
+      "to": "Berpikir",
+      "advice": "Ia membutuhkan waktu untuk menimbang, sedangkan Anda ingin segera menyelesaikan pekerjaan. Berikan tenggat yang jelas dan wajar, lalu hargai pertimbangannya sebelum Anda bertindak.",
+      "example": "Saya paham Anda butuh waktu menimbang. Bisakah hasilnya selesai hari Kamis? Kabari saya jika butuh bahan tambahan."
+    },
+    {
+      "from": "Bekerja Keras",
+      "to": "Bekerjasama",
+      "advice": "Ia menjaga suasana, sedangkan Anda menjaga hasil. Jangan menganggap candanya sebagai tanda bahwa ia tidak serius. Ajak ia menjaga semangat tim, sementara Anda menjaga mutu pekerjaan.",
+      "example": "Terima kasih sudah menjaga suasana tim. Saya menjaga mutu pekerjaannya, dan kita bagi tugas sesuai kekuatan masing-masing."
+    },
+    {
+      "from": "Bekerja Keras",
+      "to": "Berperasaan",
+      "advice": "Ia peka terhadap nada bicara. Sampaikan koreksi secara pribadi dan lembut, lalu awali dengan hal yang sudah baik. Ketegasan Anda dapat terasa sebagai kritik yang keras.",
+      "example": "Bagian ini sudah bagus. Ada satu hal kecil yang bisa kita perbaiki bersama. Boleh kita bicarakan berdua?"
+    },
+    {
+      "from": "Bekerja Keras",
+      "to": "Melayani",
+      "advice": "Ia mudah mengalah dan menanggung banyak hal. Jangan memanfaatkan kesediaannya untuk membantu. Tanyakan kebutuhannya dan bagilah beban secara adil.",
+      "example": "Terima kasih sudah selalu siap membantu. Mari kita bagi tugasnya supaya tidak ada yang terlalu berat."
+    },
+    {
+      "from": "Mempengaruhi",
+      "to": "Bekerja Keras",
+      "advice": "Ia tidak banyak bicara, tetapi teguh pada pendiriannya. Jangan menafsirkan diamnya sebagai persetujuan. Tanyakan pendapatnya secara pribadi dan berikan tanggung jawab yang menghargai ketekunannya.",
+      "example": "Saya ingin mendengar pendapat Anda secara pribadi. Menurut Anda, bagaimana cara terbaik menyelesaikan ini?"
+    },
+    {
+      "from": "Mempengaruhi",
+      "to": "Mempengaruhi",
+      "advice": "Dua orang pemimpin dapat berebut arah. Bagilah wilayah kendali sejak awal dan sepakati cara mengambil keputusan ketika pendapat berbeda.",
+      "example": "Kita sama-sama ingin memimpin. Mari bagi wilayahnya: Anda memimpin bagian ini, saya bagian itu."
+    },
+    {
+      "from": "Mempengaruhi",
+      "to": "Berpikir",
+      "advice": "Ia menimbang sesuatu secara mendalam, sedangkan Anda cenderung cepat memutuskan. Berikan bahan dan waktu sebelum meminta jawaban. Setelah itu, tanyakan, “Apa yang Anda lihat dan belum saya lihat?”",
+      "example": "Ini bahan yang perlu dipelajari dulu, silakan sampai besok. Apa yang Anda lihat dan belum saya lihat?"
+    },
+    {
+      "from": "Mempengaruhi",
+      "to": "Bekerjasama",
+      "advice": "Ia berperan sebagai penghubung yang ceria. Libatkan ia sebagai penengah, tetapi jangan menganggap kata “iya” selalu berarti setuju. Tanyakan keberatannya secara langsung.",
+      "example": "Saya butuh Anda sebagai penghubung. Kalau ada yang keberatan, tolong sampaikan terus terang, ya."
+    },
+    {
+      "from": "Mempengaruhi",
+      "to": "Berperasaan",
+      "advice": "Kata-kata Anda yang lugas dapat menekan perasaannya. Rendahkan nada bicara, berikan ruang, dan jangan menunjuknya secara mendadak di depan orang lain.",
+      "example": "Kalau cara bicara saya terlalu keras, tolong beri tahu saya. Saya ingin mendengar pendapat Anda dengan tenang."
+    },
+    {
+      "from": "Mempengaruhi",
+      "to": "Melayani",
+      "advice": "Ia siap membantu, sedangkan Anda mudah memberikan tugas. Pastikan pembagian tugas berlangsung adil dan sampaikan terima kasih dengan jelas.",
+      "example": "Terima kasih atas bantuan Anda. Bagian ini saya bagi supaya beban Anda tidak berlebihan."
+    },
+    {
+      "from": "Berpikir",
+      "to": "Bekerja Keras",
+      "advice": "Ia ingin segera memperoleh hasil, sedangkan Anda ingin memastikan semuanya. Sampaikan perkiraan waktu dan temuan sementara agar ia tidak menganggap Anda menunda pekerjaan.",
+      "example": "Perkiraan saya, hasilnya selesai hari Rabu. Ini temuan sementara saya agar Anda bisa memantau perkembangannya."
+    },
+    {
+      "from": "Berpikir",
+      "to": "Mempengaruhi",
+      "advice": "Ia berbicara cepat dan lantang sehingga Anda dapat merasa terdesak. Mintalah bahan atau pertanyaan terlebih dahulu. Sampaikan pendapat secara tertulis jika percakapan berlangsung terlalu cepat.",
+      "example": "Boleh saya terima bahan atau pertanyaannya lebih dulu? Saya akan menjawab secara tertulis sore ini."
+    },
+    {
+      "from": "Berpikir",
+      "to": "Berpikir",
+      "advice": "Dua orang yang suka berpikir dapat berdiskusi terlalu lama hingga lupa bertindak. Tetapkan batas waktu untuk mengambil keputusan dan tentukan pihak yang melaksanakan keputusan tersebut.",
+      "example": "Diskusinya sudah cukup. Mari tetapkan batas waktu keputusan dan siapa yang melaksanakannya."
+    },
+    {
+      "from": "Berpikir",
+      "to": "Bekerjasama",
+      "advice": "Ia senang berbicara dan berkegiatan bersama, sedangkan Anda membutuhkan ketenangan. Sampaikan kapan Anda perlu menyendiri dan sediakan waktu khusus untuk berbicara dengannya.",
+      "example": "Saya senang berbincang, tetapi saya perlu waktu tenang sampai pukul 15.00. Setelah itu kita ngobrol, ya."
+    },
+    {
+      "from": "Berpikir",
+      "to": "Berperasaan",
+      "advice": "Keduanya cenderung tenang sehingga hal penting dapat tidak terucapkan. Ajukan pertanyaan sederhana secara berkala, seperti “Bagaimana perasaanmu tentang hal ini?”",
+      "example": "Bagaimana perasaanmu tentang hal ini? Boleh ditulis dulu kalau lebih mudah."
+    },
+    {
+      "from": "Berpikir",
+      "to": "Melayani",
+      "advice": "Ia sering menyesuaikan diri dengan Anda. Tanyakan kebutuhannya, bukan hanya membicarakan gagasan Anda.",
+      "example": "Selain gagasan saya, saya ingin tahu apa yang Anda butuhkan agar pekerjaan ini terasa ringan."
+    },
+    {
+      "from": "Bekerjasama",
+      "to": "Bekerja Keras",
+      "advice": "Hargai kesungguhannya dan jangan memaksanya ikut bercanda. Ajak ia terlibat melalui tugas yang bermakna, bukan melalui keramaian.",
+      "example": "Saya menghargai kesungguhan Anda. Ada tugas yang bermakna dan sesuai dengan keahlian Anda. Bersediakah Anda mengerjakannya?"
+    },
+    {
+      "from": "Bekerjasama",
+      "to": "Mempengaruhi",
+      "advice": "Bantulah menengahi tanpa mengabaikan pendapat sendiri. Sampaikan keberatan dengan santun dan jelas karena ia menghargai kejelasan.",
+      "example": "Saya bisa membantu menengahi. Di bagian ini saya tidak setuju, dan alasan saya adalah…."
+    },
+    {
+      "from": "Bekerjasama",
+      "to": "Berpikir",
+      "advice": "Berikan ruang untuk hening. Ajukan satu pertanyaan, lalu tunggu jawabannya. Jangan memenuhi keheningan dengan pertanyaan yang beruntun.",
+      "example": "Saya hanya ingin bertanya satu hal: bagaimana pendapat Anda tentang ini? Silakan dijawab kapan pun siap."
+    },
+    {
+      "from": "Bekerjasama",
+      "to": "Bekerjasama",
+      "advice": "Suasana yang menyenangkan dapat membuat tugas tertunda. Tetapkan tenggat dan pembagian peran sejak awal.",
+      "example": "Suasananya menyenangkan sekali. Supaya tugasnya tidak tertunda, mari tentukan tenggat dan peran masing-masing."
+    },
+    {
+      "from": "Bekerjasama",
+      "to": "Berperasaan",
+      "advice": "Ia tidak selalu nyaman berada di keramaian. Ajak ia dengan lembut, berikan beberapa pilihan, dan jangan memaksanya tampil.",
+      "example": "Mau ikut kegiatan ini? Tidak apa-apa kalau belum mau. Ada pilihan lain yang lebih tenang."
+    },
+    {
+      "from": "Bekerjasama",
+      "to": "Melayani",
+      "advice": "Keduanya senang membantu orang lain sehingga mudah kelebihan beban. Periksa pihak yang menanggung beban lebih banyak, lalu bagi ulang tugas tersebut.",
+      "example": "Kita sama-sama mudah membantu. Mari lihat siapa yang sekarang menanggung lebih banyak, lalu kita bagi ulang."
+    },
+    {
+      "from": "Berperasaan",
+      "to": "Bekerja Keras",
+      "advice": "Sampaikan kebutuhan secara singkat atau tertulis. Jangan menyimpan keberatan sampai menumpuk karena ia menghargai kejelasan.",
+      "example": "Saya ingin menyampaikan kebutuhan saya secara singkat: …. Terima kasih sudah mendengarkan."
+    },
+    {
+      "from": "Berperasaan",
+      "to": "Mempengaruhi",
+      "advice": "Nada bicara yang lantang belum tentu menunjukkan kemarahan. Siapkan satu kalimat pembuka untuk menyampaikan pendapat. Anda juga berhak memintanya berbicara lebih pelan.",
+      "example": "Saya sedang menyiapkan pendapat saya. Boleh saya sampaikan dulu satu kalimat ini, dan tolong bicara lebih pelan?"
+    },
+    {
+      "from": "Berperasaan",
+      "to": "Berpikir",
+      "advice": "Kalian berdua merasa nyaman dalam suasana tenang. Gunakan tulisan untuk menyampaikan perasaan dan pikiran yang sulit diucapkan.",
+      "example": "Saya senang kita bisa tenang berdua. Boleh saya menulis dulu hal yang sulit saya ucapkan?"
+    },
+    {
+      "from": "Berperasaan",
+      "to": "Bekerjasama",
+      "advice": "Ia mudah mencairkan suasana. Terima ajakannya secara bertahap dan sampaikan batas kenyamanan Anda.",
+      "example": "Terima kasih sudah mengajak. Saya ikut sebentar saja, ya. Setelah itu saya perlu istirahat."
+    },
+    {
+      "from": "Berperasaan",
+      "to": "Berperasaan",
+      "advice": "Dua orang yang peka dapat saling memahami tanpa kata, tetapi juga dapat saling memendam. Sepakati waktu untuk berbicara secara jujur dan berkala.",
+      "example": "Kita sama-sama sering menyimpan perasaan. Mari tentukan waktu mingguan untuk berbicara jujur."
+    },
+    {
+      "from": "Berperasaan",
+      "to": "Melayani",
+      "advice": "Ia penuh perhatian. Jangan ragu menyampaikan kebutuhan karena ia senang membantu jika mengetahui kebutuhan tersebut.",
+      "example": "Saya ingin mengatakan apa yang saya butuhkan: …. Terima kasih sudah selalu perhatian."
+    },
+    {
+      "from": "Melayani",
+      "to": "Bekerja Keras",
+      "advice": "Hargai ketekunannya, tetapi jangan mengambil alih bebannya hanya agar ia tidak kerepotan. Bicarakan pembagian tugas masing-masing.",
+      "example": "Saya menghargai ketekunan Anda. Mari bicarakan pembagian tugas supaya Anda tidak menanggung semuanya."
+    },
+    {
+      "from": "Melayani",
+      "to": "Mempengaruhi",
+      "advice": "Ia mudah memberikan tugas. Belajarlah mengatakan, “Saya dapat membantu sampai di sini, tetapi tidak dapat melanjutkan sisanya.”",
+      "example": "Saya bisa membantu sampai bagian ini. Sisanya perlu dibagi dengan orang lain."
+    },
+    {
+      "from": "Melayani",
+      "to": "Berpikir",
+      "advice": "Berikan dukungan praktis, seperti membantu menyiapkan dan merapikan sesuatu, serta hormati waktu tenangnya. Jangan mengharapkan jawaban yang cepat.",
+      "example": "Saya sudah menyiapkan dan merapikannya. Silakan dipelajari dulu, saya tidak terburu-buru menunggu jawaban."
+    },
+    {
+      "from": "Melayani",
+      "to": "Bekerjasama",
+      "advice": "Keduanya sama-sama hangat sehingga mudah mengerjakan semuanya sendiri. Bagilah tugas secara jelas dan adil.",
+      "example": "Kita sama-sama suka membantu. Supaya adil, saya ambil bagian pertama dan Anda bagian kedua, ya."
+    },
+    {
+      "from": "Melayani",
+      "to": "Berperasaan",
+      "advice": "Bersikaplah lembut dan sabar, tetapi jangan menebak perasaannya. Tanyakan perasaannya dengan halus dan terima jawabannya.",
+      "example": "Kalau Anda mau bercerita, saya siap mendengarkan. Kalau belum, tidak apa-apa."
+    },
+    {
+      "from": "Melayani",
+      "to": "Melayani",
+      "advice": "Dua orang yang suka melayani dapat sama-sama sungkan meminta bantuan. Nyatakan kebutuhan secara bergantian agar tidak ada pihak yang lelah dalam diam.",
+      "example": "Hari ini saya butuh bantuan untuk bagian ini. Anda butuh apa dari saya?"
+    }
+  ],
+  "ego": [
+    {
+      "from": "Ego Tinggi",
+      "to": "Ego Tinggi",
+      "advice": "Dua orang dengan ego tinggi mudah berbenturan. Untuk menjaga keseimbangan, salah satu pihak perlu menurunkan ego secara sadar. Bergantianlah memimpin, sepakati pihak yang mengambil keputusan, dan gunakan pertanyaan seperti “Menurutmu bagaimana?” sebelum mengarahkan."
+    },
+    {
+      "from": "Ego Tinggi",
+      "to": "Ego Sedang",
+      "advice": "Hubungan cukup seimbang jika pihak dengan ego tinggi memberi ruang untuk berpikir dan pihak dengan ego sedang menyampaikan pendapat lebih awal. Pihak dengan ego tinggi perlu menahan diri untuk tidak memutuskan sebelum mendengar."
+    },
+    {
+      "from": "Ego Tinggi",
+      "to": "Ego Rendah",
+      "advice": "Kombinasi ini dapat saling melengkapi: pihak dengan ego tinggi mengarahkan, sedangkan pihak dengan ego rendah menyelaraskan. Waspadai kecenderungan pihak dengan ego rendah untuk terlalu mengalah. Pihak dengan ego tinggi perlu menanyakan kebutuhan dan menunjukkan penghargaan, sedangkan pihak dengan ego rendah perlu berlatih menyampaikan pendapat."
+    },
+    {
+      "from": "Ego Sedang",
+      "to": "Ego Sedang",
+      "advice": "Hubungan ini cenderung stabil karena kedua pihak banyak menimbang, tetapi keputusan dapat tertunda. Tetapkan batas waktu dan pembagian peran: satu pihak menggerakkan, sedangkan pihak lain menimbang."
+    },
+    {
+      "from": "Ego Sedang",
+      "to": "Ego Rendah",
+      "advice": "Hubungan ini hangat dan tenang, tetapi dapat kekurangan inisiatif. Pihak dengan ego sedang dapat membantu menyusun rencana, sedangkan pihak dengan ego rendah perlu menyuarakan kebutuhan. Salah satu pihak perlu berani memulai."
+    },
+    {
+      "from": "Ego Rendah",
+      "to": "Ego Rendah",
+      "advice": "Kedua pihak sangat lembut, tetapi mudah saling mengalah sehingga tidak ada yang mengambil keputusan. Sepakati pihak yang mengambil keputusan pada hari itu dan nyatakan kebutuhan secara bergantian."
+    }
+  ],
+  "roles": [
+    {
+      "name": "Bekerja Keras",
+      "role": "melaksanakan tugas dengan tuntas dan disiplin"
+    },
+    {
+      "name": "Mempengaruhi",
+      "role": "memimpin dan menjadi juru bicara"
+    },
+    {
+      "name": "Berpikir",
+      "role": "menganalisis dan menyusun rencana"
+    },
+    {
+      "name": "Bekerjasama",
+      "role": "merekatkan tim dan menjadi penghubung"
+    },
+    {
+      "name": "Berperasaan",
+      "role": "menjaga kepekaan dan amanah"
+    },
+    {
+      "name": "Melayani",
+      "role": "melayani dan memperhatikan kebutuhan orang lain"
+    }
+  ],
+  "friction": [
+    {
+      "from": "Bekerja Keras",
+      "to": "Bekerja Keras",
+      "kind": "Standar saling menuntut",
+      "level": "Sedang",
+      "situation": "Dua orang yang sama-sama menuntut mutu saling mengoreksi sampai suasana tegang dan tidak ada yang puas.",
+      "remedy": "Sepakati standar cukup baik dan siapa yang memutuskan akhir; biasakan saling mengakui hasil."
+    },
+    {
+      "from": "Bekerja Keras",
+      "to": "Mempengaruhi",
+      "kind": "Benturan ego dan nada",
+      "level": "Tinggi",
+      "situation": "Pemimpin yang lugas memberi perintah, rekan yang teguh diam lalu bekerja dengan caranya sendiri; keduanya merasa tidak dihargai.",
+      "remedy": "Bagi wilayah kendali, tanyakan pendapat secara pribadi sebelum menugaskan, dan yang diam menyampaikan keberatan singkat sejak awal."
+    },
+    {
+      "from": "Bekerja Keras",
+      "to": "Berpikir",
+      "kind": "Tempo",
+      "level": "Sedang",
+      "situation": "Satu ingin segera tuntas, satu masih menimbang; yang cepat mengira pekerjaan ditunda.",
+      "remedy": "Beri tenggat jelas dan temuan sementara, serta hargai pertimbangannya."
+    },
+    {
+      "from": "Bekerja Keras",
+      "to": "Bekerjasama",
+      "kind": "Suasana versus mutu",
+      "level": "Rendah",
+      "situation": "Canda dan keakraban terasa mengganggu bagi yang fokus hasil; yang ceria merasa tidak diterima.",
+      "remedy": "Sepakati waktu serius dan waktu santai; tugaskan tiap orang sesuai kekuatannya."
+    },
+    {
+      "from": "Bekerja Keras",
+      "to": "Berperasaan",
+      "kind": "Nada",
+      "level": "Sedang",
+      "situation": "Koreksi singkat dan tegas terasa sebagai kritik keras; yang peka diam dan menjauh.",
+      "remedy": "Koreksi secara pribadi, awali dari hal yang sudah baik, jangan di depan orang."
+    },
+    {
+      "from": "Bekerja Keras",
+      "to": "Melayani",
+      "kind": "Beban",
+      "level": "Sedang",
+      "situation": "Yang melayani diam-diam mengambil alih beban agar rekannya tidak kerepotan.",
+      "remedy": "Bicarakan porsi tugas, dan yang melayani meminta pembagian yang adil."
+    },
+    {
+      "from": "Mempengaruhi",
+      "to": "Mempengaruhi",
+      "kind": "Benturan ego",
+      "level": "Tinggi",
+      "situation": "Dua pemimpin berebut arah dan saling memotong pembicaraan.",
+      "remedy": "Bagi wilayah, bergiliran memimpin, dan salah satu menurunkan ego dengan bertanya lebih dulu."
+    },
+    {
+      "from": "Mempengaruhi",
+      "to": "Berpikir",
+      "kind": "Tempo",
+      "level": "Tinggi",
+      "situation": "Tipe pemimpin meminta jawaban segera, sedangkan orang tipe Berpikir masih membutuhkan waktu untuk menimbang sehingga merasa terdesak dan memilih diam.",
+      "remedy": "Beri bahan dan waktu sebelum meminta jawaban; tanyakan, “Apa yang Anda lihat dan belum saya lihat?”"
+    },
+    {
+      "from": "Mempengaruhi",
+      "to": "Bekerjasama",
+      "kind": "Setuju semu",
+      "level": "Sedang",
+      "situation": "Rekan yang ceria berkata “iya” demi menjaga suasana padahal keberatan.",
+      "remedy": "Tanyakan keberatan secara pribadi; yang ceria berlatih menyampaikan beda pendapat dengan santun."
+    },
+    {
+      "from": "Mempengaruhi",
+      "to": "Berperasaan",
+      "kind": "Nada",
+      "level": "Tinggi",
+      "situation": "Teguran lugas dianggap penolakan; rekan yang peka memendam, lalu menjauh.",
+      "remedy": "Turunkan nada, jangan menunjuk mendadak, dan beri ruang untuk bicara."
+    },
+    {
+      "from": "Mempengaruhi",
+      "to": "Melayani",
+      "kind": "Beban",
+      "level": "Sedang",
+      "situation": "Pemimpin mudah menugaskan, yang melayani mudah menerima hingga kelelahan.",
+      "remedy": "Bagi tugas secara adil dan ucapkan terima kasih dengan jelas; yang melayani berlatih berkata, “Saya bisa sampai di sini.”"
+    },
+    {
+      "from": "Berpikir",
+      "to": "Berpikir",
+      "kind": "Keputusan tertunda",
+      "level": "Sedang",
+      "situation": "Dua pemikir berdiskusi panjang tanpa memutuskan.",
+      "remedy": "Tetapkan batas waktu keputusan dan siapa yang mengeksekusi."
+    },
+    {
+      "from": "Berpikir",
+      "to": "Bekerjasama",
+      "kind": "Tempo percakapan",
+      "level": "Rendah",
+      "situation": "Yang ceria mengisi keheningan dengan pertanyaan beruntun; yang menimbang butuh tenang.",
+      "remedy": "Ajukan satu pertanyaan lalu tunggu; sediakan waktu khusus untuk bercakap."
+    },
+    {
+      "from": "Berpikir",
+      "to": "Berperasaan",
+      "kind": "Diam-diaman",
+      "level": "Sedang",
+      "situation": "Dua orang tenang; hal penting tidak terucap hingga salah paham menumpuk.",
+      "remedy": "Ajukan pertanyaan rutin, “Bagaimana perasaanmu tentang ini?”, dan manfaatkan tulisan."
+    },
+    {
+      "from": "Berpikir",
+      "to": "Melayani",
+      "kind": "Menyesuaikan sepihak",
+      "level": "Rendah",
+      "situation": "Yang melayani selalu menyesuaikan diri, sementara yang menimbang tidak sadar kebutuhan pihak lain.",
+      "remedy": "Tanyakan kebutuhannya, bukan hanya membahas gagasan sendiri."
+    },
+    {
+      "from": "Bekerjasama",
+      "to": "Bekerjasama",
+      "kind": "Tugas tertunda",
+      "level": "Rendah",
+      "situation": "Suasana menyenangkan, tetapi tugas dan keputusan sulit karena semua ingin menjaga harmoni.",
+      "remedy": "Tetapkan tenggat dan peran sejak awal."
+    },
+    {
+      "from": "Bekerjasama",
+      "to": "Berperasaan",
+      "kind": "Keramaian",
+      "level": "Rendah",
+      "situation": "Ajakan yang ramai membuat yang peka kewalahan, tetapi ia sungkan menolak.",
+      "remedy": "Ajak dengan lembut, sediakan pilihan, dan jangan memaksanya tampil."
+    },
+    {
+      "from": "Bekerjasama",
+      "to": "Melayani",
+      "kind": "Beban",
+      "level": "Sedang",
+      "situation": "Dua orang yang suka membantu: semua dikerjakan sendiri atau tugas saling menumpuk.",
+      "remedy": "Periksa siapa yang menanggung lebih banyak, lalu bagi ulang tugas."
+    },
+    {
+      "from": "Berperasaan",
+      "to": "Berperasaan",
+      "kind": "Saling memendam",
+      "level": "Sedang",
+      "situation": "Saling memahami tanpa kata, tetapi juga saling memendam sehingga masalah baru muncul saat sudah besar.",
+      "remedy": "Jadwalkan waktu bicara jujur secara berkala."
+    },
+    {
+      "from": "Berperasaan",
+      "to": "Melayani",
+      "kind": "Salah tebak",
+      "level": "Rendah",
+      "situation": "Yang melayani menebak perasaan lalu membantu berlebihan; yang peka sungkan menyampaikan kebutuhan.",
+      "remedy": "Tanyakan dengan halus tanpa menebak, dan yang peka menyampaikan kebutuhannya."
+    },
+    {
+      "from": "Melayani",
+      "to": "Melayani",
+      "kind": "Saling mengalah",
+      "level": "Sedang",
+      "situation": "Keduanya sungkan meminta sehingga tidak ada yang memutuskan dan keduanya lelah diam-diam.",
+      "remedy": "Bergantian menyatakan kebutuhan dan sepakati siapa yang memutuskan."
+    }
+  ],
+  "problems": [
+    {
+      "id": "tantrum",
+      "name": "Tantrum",
+      "principle": "Tantrum adalah luapan emosi yang belum bisa diatur, bukan kenakalan. Tenangkan diri sendiri dahulu, jaga keselamatan anak, akui perasaannya, lalu tetapkan batas dengan tenang dan konsisten. Ajarkan kata-kata untuk perasaannya setelah ia tenang.",
+      "professional": "Konsultasikan ke psikolog atau dokter anak bila tantrum sangat sering dan hebat setelah usia sekolah, membahayakan diri atau orang lain, atau disertai kemunduran perkembangan, gangguan tidur, atau kecemasan berat.",
+      "role": "Orang tua dan guru menjadi penenang: bicara pelan, singkat, dan seragam antara rumah dan sekolah, serta memuji saat anak berhasil mengendalikan diri.",
+      "byType": {
+        "Bekerja Keras": {
+          "need": "Kecewa karena hasil tidak sesuai harapan atau merasa gagal; sulit menerima kesalahan.",
+          "outlet": "Proyek kecil bertarget bertahap (menyusun, membangun, menggambar) agar keberhasilan terasa nyata.",
+          "steps": [
+            "Beri jeda tenang tanpa menceramahi.",
+            "Setelah tenang, akui usahanya lalu bahas satu hal yang bisa diperbaiki.",
+            "Tetapkan target kecil yang pasti tercapai besok."
+          ],
+          "sentence": "Kamu sudah berusaha keras. Kita tarik napas dulu, lalu cari satu langkah kecil berikutnya.",
+          "avoid": "Membandingkan dengan saudara atau teman, atau menertawakan kesalahannya."
+        },
+        "Mempengaruhi": {
+          "need": "Merasa dikendalikan, dipermalukan, atau kalah; butuh rasa berkuasa atas keadaannya.",
+          "outlet": "Peran memimpin yang sehat: ketua kegiatan, pembagi tugas, atau pelatih bagi adik.",
+          "steps": [
+            "Beri dua pilihan yang sama-sama dapat diterima.",
+            "Tegaskan batas dengan tenang dan tanpa berdebat.",
+            "Beri tanggung jawab memimpin setelah ia tenang."
+          ],
+          "sentence": "Kamu boleh marah. Kamu boleh memilih: membereskan sekarang atau setelah minum. Yang tidak boleh adalah memukul.",
+          "avoid": "Mempermalukan di depan orang lain atau beradu keras suara."
+        },
+        "Berpikir": {
+          "need": "Kewalahan karena diburu waktu atau terlalu banyak rangsangan; sulit mengungkapkan isi pikirannya.",
+          "outlet": "Kegiatan tenang yang memberi ruang berpikir: menyusun puzzle, membaca, bertanya “mengapa”, atau eksperimen kecil.",
+          "steps": [
+            "Kurangi rangsangan dan beri ruang tenang.",
+            "Beri peringatan lebih awal sebelum pergantian kegiatan.",
+            "Ajak menjelaskan isi pikirannya dengan menulis atau menggambar."
+          ],
+          "sentence": "Ibu beri waktu lima menit lagi, lalu kita ganti kegiatan. Kalau sulit bilang, ceritakan lewat gambar.",
+          "avoid": "Menuntut jawaban cepat atau memindahkan kegiatannya secara mendadak."
+        },
+        "Bekerjasama": {
+          "need": "Merasa ditolak atau ditinggal teman, atau suasana tidak menyenangkan; butuh kebersamaan.",
+          "outlet": "Kegiatan kelompok dengan peran jelas: bermain bersama, kerja kelompok, atau tim kecil.",
+          "steps": [
+            "Dekati dan temani dahulu sebelum menasihati.",
+            "Bantu menamai perasaan: sedih, kecewa, atau malu.",
+            "Atur waktu bermain bersama sebagai penghargaan atas pengendalian diri."
+          ],
+          "sentence": "Kamu sedih ya, tadi tidak diajak main. Ibu temani sampai tenang.",
+          "avoid": "Mengucilkannya sebagai hukuman dalam waktu lama."
+        },
+        "Berperasaan": {
+          "need": "Perasaan menumpuk tanpa tersalurkan lalu meledak; takut dimarahi sehingga memendam.",
+          "outlet": "Menulis, menggambar, atau bercerita lewat benda kesayangan untuk menyalurkan perasaan.",
+          "steps": [
+            "Peluk atau duduk dekat tanpa banyak bicara.",
+            "Setelah tenang, tanyakan satu pertanyaan dengan lembut.",
+            "Sediakan waktu bercerita setiap malam."
+          ],
+          "sentence": "Ibu di sini. Kalau belum mau cerita, tidak apa-apa. Nanti ceritakan lewat gambar.",
+          "avoid": "Membentak, menyuruh diam, atau memaksa bercerita."
+        },
+        "Melayani": {
+          "need": "Terlalu lama mengalah dan menahan lelah atau kecewa, lalu meledak.",
+          "outlet": "Peran membantu yang dibatasi dan dihargai: menyiapkan makan bersama, merawat tanaman, atau membimbing adik.",
+          "steps": [
+            "Tanyakan kebutuhannya sendiri setiap hari.",
+            "Ajarkan menolak dengan santun.",
+            "Hargai kebaikannya dan beri hari istirahat dari tugas."
+          ],
+          "sentence": "Terima kasih sudah banyak membantu. Hari ini giliran kamu dibantu. Kamu butuh apa?",
+          "avoid": "Menganggap kebaikannya sudah semestinya atau membebaninya dengan tugas orang lain."
+        }
+      }
+    },
+    {
+      "id": "kecanduan-gadget",
+      "name": "Kecanduan gadget",
+      "principle": "Kurangi layar dengan mengganti, bukan hanya melarang. Buat kesepakatan bersama yang jelas tentang waktu, tempat, dan jenis konten, teladani sendiri, dan isi waktu anak dengan kegiatan nyata yang sesuai bakatnya. Turunkan bertahap, bukan mendadak.",
+      "professional": "Cari bantuan psikolog bila anak tidak bisa berhenti meski sudah dibatasi, mengabaikan makan, tidur, sholat, atau sekolah, menarik diri dari keluarga, atau sangat marah dan cemas saat dijauhkan dari gawai. Periksa juga kemungkinan kecemasan atau depresi.",
+      "role": "Orang tua membuat zona dan jam tanpa gawai (meja makan, kamar tidur, waktu sholat). Guru memberi tugas bermakna dan menantang di luar layar.",
+      "byType": {
+        "Bekerja Keras": {
+          "need": "Mencari rasa berhasil: naik level dan menyelesaikan tantangan di game terasa seperti prestasi.",
+          "outlet": "Proyek nyata bertahap yang hasilnya dinilai: membangun, berkebun, atau melatih keterampilan dengan target mingguan.",
+          "steps": [
+            "Sepakati batas waktu dan jadwalnya bersama.",
+            "Ganti dengan proyek nyata yang bertingkat dan hasilnya terlihat.",
+            "Hargai ketekunannya, bukan hanya hasilnya."
+          ],
+          "sentence": "Level di game memang seru. Mari kita buat “level” di dunia nyata: target minggu ini apa?",
+          "avoid": "Menyita tiba-tiba tanpa pengganti atau mengejek hobinya."
+        },
+        "Mempengaruhi": {
+          "need": "Mencari rasa menang dan berkuasa; game kompetitif memenuhi kebutuhan memimpin dan bersaing.",
+          "outlet": "Lomba sehat dan kepemimpinan nyata: olahraga tim, ketua kegiatan, atau kompetisi kecil di rumah.",
+          "steps": [
+            "Libatkan Ananda menyusun aturan layar keluarga.",
+            "Beri peran memimpin kegiatan nyata.",
+            "Adakan lomba harian tanpa layar dengan hadiah sederhana."
+          ],
+          "sentence": "Kamu pandai memimpin. Jadilah kapten futsal sore ini, lalu kita sepakati waktu game malam.",
+          "avoid": "Memerintah dengan keras tanpa melibatkannya atau mempermalukan di depan teman."
+        },
+        "Berpikir": {
+          "need": "Menarik diri ke dunia layar yang tenang dan tanpa tuntutan; senang menggali video atau game strategi.",
+          "outlet": "Kegiatan yang memuaskan rasa ingin tahu: membaca, eksperimen, merakit, catur, atau coding kreatif.",
+          "steps": [
+            "Beri peringatan sebelum waktu layar berakhir.",
+            "Sediakan alternatif yang menantang pikiran.",
+            "Dorong Ananda berbagi hal yang dipelajari saat makan malam."
+          ],
+          "sentence": "Lima menit lagi selesai ya. Setelah ini mau lanjut eksperimen atau catur?",
+          "avoid": "Memutus mendadak atau menyuruh berhenti saat ia sedang di tengah tugas."
+        },
+        "Bekerjasama": {
+          "need": "Terhubung dengan teman lewat game online atau media sosial; takut ketinggalan dan merasa ditolak.",
+          "outlet": "Kegiatan bersama teman secara langsung: klub, kerja bakti, olahraga, atau kegiatan masjid.",
+          "steps": [
+            "Fasilitasi pertemanan nyata (bermain, kegiatan kelompok).",
+            "Sepakati jam online bersama teman.",
+            "Beri tugas kelompok yang berbatas waktu."
+          ],
+          "sentence": "Ajak temanmu main ke rumah sore ini. Setelah itu kita atur jam online-nya.",
+          "avoid": "Melarang total bertemu temannya atau mengucilkannya."
+        },
+        "Berperasaan": {
+          "need": "Pelarian dari perasaan tidak nyaman, malu, atau kesepian; layar terasa aman.",
+          "outlet": "Ekspresi yang menenangkan: menulis, menggambar, merawat hewan atau tanaman, atau tilawah dengan suara.",
+          "steps": [
+            "Dekati dengan lembut dan tanyakan apa yang dirasakannya.",
+            "Sediakan waktu berdua tanpa gawai.",
+            "Beri ruang berekspresi lewat karya."
+          ],
+          "sentence": "Ibu perhatikan kamu lebih suka sendiri. Kalau ada yang berat, ibu mau mendengarkan.",
+          "avoid": "Menyita gawai sambil membentak atau menertawakan kepekaannya."
+        },
+        "Melayani": {
+          "need": "Memakai layar untuk beristirahat setelah banyak berkorban, atau mencari kebersamaan.",
+          "outlet": "Peran membantu yang bermakna: menjadi relawan kecil, menolong adik, atau merawat lingkungan.",
+          "steps": [
+            "Ajak Ananda memilih kegiatan membantu yang disukainya.",
+            "Pastikan ada waktu istirahat yang sehat.",
+            "Beri apresiasi dan tanyakan kebutuhannya."
+          ],
+          "sentence": "Terima kasih sudah membantu. Mari kita atur waktu istirahatmu supaya tidak hanya di depan layar.",
+          "avoid": "Menambah beban tugas sebagai hukuman."
+        }
+      }
+    },
+    {
+      "id": "malas-sholat",
+      "name": "Malas sholat",
+      "principle": "Sholat ditumbuhkan dengan keteladanan, kedekatan hati, dan pembiasaan yang menyenangkan, bukan dengan ancaman. Mulai dari yang kecil dan konsisten, dampingi, dan hubungkan dengan hal yang disukai anak. Kekerasan fisik tidak dibenarkan dan merusak hubungan.",
+      "professional": "Bila penolakan beribadah disertai perubahan mendadak seperti menarik diri, sedih berkepanjangan, atau kehilangan minat pada hampir semua hal, ajak bicara ustadz atau konselor yang memahami anak dan pertimbangkan pemeriksaan psikolog.",
+      "role": "Orang tua dan guru menjadi teladan: sholat tepat waktu, berjamaah bersama, mendoakan anak, dan mengaitkan sholat dengan rasa tenang dan syukur.",
+      "byType": {
+        "Bekerja Keras": {
+          "need": "Merasa sholat hanya kewajiban tanpa hasil nyata; butuh tujuan dan rasa mencapai.",
+          "outlet": "Tantangan istiqamah: catatan sholat harian dengan target bertahap dan penghargaan atas ketekunan.",
+          "steps": [
+            "Mulai dari satu waktu sholat yang paling mudah.",
+            "Buat papan pencapaian dan rayakan setiap pekan.",
+            "Jelaskan makna sholat sebagai latihan disiplin dan kedekatan dengan Allah."
+          ],
+          "sentence": "Hebat, sudah lima hari berturut-turut. Pekan depan kita tambah satu waktu lagi.",
+          "avoid": "Mengukur dengan celaan atau membandingkan dengan saudara."
+        },
+        "Mempengaruhi": {
+          "need": "Menolak bila merasa diperintah; butuh peran dan rasa dipercaya.",
+          "outlet": "Diberi peran: muadzin cilik, pemimpin sholat berjamaah di rumah, atau pengatur jadwal.",
+          "steps": [
+            "Libatkan Ananda memilih waktu dan cara pengingat.",
+            "Beri peran adzan atau mengimami adik.",
+            "Hargai komitmennya di depan keluarga dengan wajar."
+          ],
+          "sentence": "Ayah percaya kamu bisa memimpin jamaah. Maukah kamu adzan hari ini?",
+          "avoid": "Memaksa dengan nada keras atau mempermalukannya."
+        },
+        "Berpikir": {
+          "need": "Ingin memahami alasannya dahulu; sholat yang terasa seperti rutinitas kosong membuatnya enggan.",
+          "outlet": "Memahami makna: bacaan sholat dan artinya, kisah Nabi, dan bertanya “mengapa”.",
+          "steps": [
+            "Jelaskan makna satu bacaan setiap pekan.",
+            "Sediakan waktu tenang sebelum dan sesudah sholat untuk merenung.",
+            "Jawab pertanyaannya dengan sabar."
+          ],
+          "sentence": "Pertanyaan bagus. Ayo kita cari bersama arti bacaan ini.",
+          "avoid": "Menjawab “pokoknya wajib” tanpa penjelasan."
+        },
+        "Bekerjasama": {
+          "need": "Lebih bersemangat saat bersama; sholat sendirian terasa sepi dan mudah dikalahkan ajakan teman.",
+          "outlet": "Sholat berjamaah bersama keluarga atau teman di masjid, atau kelompok kecil pembiasaan.",
+          "steps": [
+            "Berjamaah di rumah dan ajak ke masjid bersama teman.",
+            "Buat kelompok kecil yang saling mengingatkan.",
+            "Rayakan bersama setelah berjamaah."
+          ],
+          "sentence": "Yuk berjamaah bareng. Sesudahnya kita makan bersama.",
+          "avoid": "Membiarkannya sholat sendirian terus atau menghukum dengan mengasingkan."
+        },
+        "Berperasaan": {
+          "need": "Butuh rasa dekat dan tenang; bila sholat terasa menakutkan atau penuh tuntutan, ia menjauh.",
+          "outlet": "Suasana khusyuk yang hangat: doa bersama sebelum tidur, tilawah yang indah, atau kisah-kisah Nabi.",
+          "steps": [
+            "Ciptakan suasana nyaman di tempat sholat.",
+            "Dampingi dengan lembut dan ajak berdoa dengan kata-katanya sendiri.",
+            "Ceritakan kasih sayang Allah, bukan hanya ancaman."
+          ],
+          "sentence": "Allah sayang kamu. Mau ibu temani sholat dan berdoa bersama?",
+          "avoid": "Menakut-nakuti dengan neraka atau membentak."
+        },
+        "Melayani": {
+          "need": "Sibuk melayani orang lain sehingga lupa dirinya; sholat dianggap bisa ditunda.",
+          "outlet": "Mengaitkan sholat dengan melayani: menyiapkan sajadah keluarga, mengajak adik, atau membantu jamaah.",
+          "steps": [
+            "Jadikan sholat sebagai waktu istirahat bagi jiwa.",
+            "Beri tugas menyiapkan tempat sholat.",
+            "Ingatkan bahwa menjaga sholat juga bentuk kebaikan."
+          ],
+          "sentence": "Terima kasih sudah menyiapkan sajadah. Sekarang waktunya kamu beristirahat bersama Allah.",
+          "avoid": "Menuntut mengurus orang lain sampai melewatkan waktu sholat."
+        }
+      }
+    },
+    {
+      "id": "berbohong",
+      "name": "Berbohong",
+      "principle": "Anak berbohong biasanya karena takut dihukum, ingin dihargai, atau ingin menghindari masalah. Ciptakan rasa aman untuk jujur: puji kejujuran, tanggapi kesalahan dengan tenang, dan beri konsekuensi yang mendidik. Hindari menjebak anak dengan pertanyaan yang sudah diketahui jawabannya.",
+      "professional": "Konsultasikan ke psikolog bila berbohong sangat sering, tanpa rasa bersalah, disertai perilaku merusak, atau menutupi hal yang membahayakan dirinya.",
+      "role": "Orang tua dan guru mencontohkan kejujuran, menepati janji, tidak berbohong “kecil” di depan anak, dan memuji keberanian mengaku.",
+      "byType": {
+        "Bekerja Keras": {
+          "need": "Takut dianggap gagal atau mengecewakan; menutupi kesalahan untuk menjaga harga diri.",
+          "outlet": "Menghargai kejujuran sebagai prestasi: papan “keberanian jujur” dan tanggung jawab memperbaiki.",
+          "steps": [
+            "Puji saat Ananda mengaku salah.",
+            "Pisahkan kesalahan dari harga dirinya.",
+            "Ajak ia merencanakan perbaikan."
+          ],
+          "sentence": "Terima kasih sudah jujur. Ibu bangga. Kita cari cara memperbaikinya bersama.",
+          "avoid": "Menghukum berat setelah ia mengaku."
+        },
+        "Mempengaruhi": {
+          "need": "Ingin tampak hebat atau menghindari malu di depan teman; membela diri.",
+          "outlet": "Kepemimpinan yang jujur: memimpin dengan teladan dan bertanggung jawab atas kelompok.",
+          "steps": [
+            "Hindari mempermalukan di depan orang lain.",
+            "Ajak bicara empat mata dengan tegas.",
+            "Beri tanggung jawab memperbaiki dan menepati janji."
+          ],
+          "sentence": "Pemimpin sejati berani mengaku salah. Ayo kita bicara berdua.",
+          "avoid": "Membongkar kebohongannya di depan teman."
+        },
+        "Berpikir": {
+          "need": "Menghindari pertanyaan beruntun atau konflik; menyederhanakan jawaban agar cepat selesai.",
+          "outlet": "Menulis jurnal atau surat untuk menyampaikan kebenaran dengan tenang.",
+          "steps": [
+            "Beri waktu untuk menjawab.",
+            "Ajukan satu pertanyaan sekali saja.",
+            "Terima jawaban tertulis bila sulit berbicara."
+          ],
+          "sentence": "Tidak perlu terburu-buru. Tuliskan dulu yang sebenarnya terjadi, ibu akan membacanya dengan tenang.",
+          "avoid": "Menginterogasi bertubi-tubi."
+        },
+        "Bekerjasama": {
+          "need": "Menjaga suasana dan menyenangkan semua orang; takut ditolak teman atau keluarga.",
+          "outlet": "Peran juru damai yang jujur: menyampaikan kebenaran dengan santun.",
+          "steps": [
+            "Tegaskan bahwa jujur tidak membuatnya ditolak.",
+            "Latih kalimat menolak dan berkata sebenarnya.",
+            "Puji keberaniannya berkata jujur meski tidak enak."
+          ],
+          "sentence": "Kamu boleh bilang tidak. Orang yang baik tetap menghargai kejujuranmu.",
+          "avoid": "Mengejek bila kejujurannya membuat suasana tidak nyaman."
+        },
+        "Berperasaan": {
+          "need": "Takut dimarahi atau mengecewakan; sangat peka terhadap nada suara.",
+          "outlet": "Karya tulisan atau gambar yang mengungkapkan perasaan sebenarnya.",
+          "steps": [
+            "Ciptakan suasana aman dengan nada lembut.",
+            "Katakan bahwa kejujuran tidak membuatnya dicintai lebih sedikit.",
+            "Tanyakan perasaannya, bukan hanya kesalahannya."
+          ],
+          "sentence": "Ibu tidak marah kalau kamu jujur. Ibu ingin tahu apa yang kamu rasakan.",
+          "avoid": "Membentak atau memasang wajah marah saat ia mengaku."
+        },
+        "Melayani": {
+          "need": "Melindungi orang lain atau menutupi kesalahan demi menolong teman; sulit menolak.",
+          "outlet": "Peran penolong yang tahu batas: melapor kepada orang dewasa demi kebaikan temannya.",
+          "steps": [
+            "Hargai niat baiknya.",
+            "Jelaskan beda antara menolong dan menutupi kesalahan.",
+            "Latih melapor dengan cara yang tetap menjaga teman."
+          ],
+          "sentence": "Niatmu baik. Tapi menolong yang benar adalah mengajak teman jujur.",
+          "avoid": "Menuduhnya berkomplot."
+        }
+      }
+    },
+    {
+      "id": "mencuri",
+      "name": "Mencuri",
+      "principle": "Tangani dengan tenang dan tegas: kembalikan barang, minta maaf, dan perbaiki, tanpa melabeli anak sebagai “pencuri”. Cari tahu kebutuhan di balik tindakan, seperti ingin memiliki, ingin diterima, menguji batas, atau merasa kurang diperhatikan. Ajarkan konsep milik dan amanah, serta sediakan jalan halal untuk memperoleh keinginan.",
+      "professional": "Libatkan psikolog bila mencuri berulang meski sudah dibimbing, disertai kebohongan berat, perilaku agresif, atau tanpa rasa bersalah. Pertimbangkan juga faktor lingkungan dan tekanan teman.",
+      "role": "Orang tua dan guru menjaga martabat anak (tidak mempermalukan di depan umum), menegakkan konsekuensi perbaikan berupa mengembalikan atau mengganti, dan menguatkan rasa amanah.",
+      "byType": {
+        "Bekerja Keras": {
+          "need": "Ingin cepat memiliki apa yang diinginkan atau menutupi kekurangan agar tampak berhasil.",
+          "outlet": "Menabung dengan target dan bekerja kecil untuk membeli barang impian; tanggung jawab keuangan kecil.",
+          "steps": [
+            "Ajak ia memperbaiki: mengembalikan dan meminta maaf.",
+            "Buat rencana menabung dengan target yang jelas.",
+            "Beri tugas yang bernilai uang saku secara jujur."
+          ],
+          "sentence": "Kita kembalikan dulu dan minta maaf. Lalu kita rencanakan cara halal untuk mendapatkannya.",
+          "avoid": "Melabeli “pencuri” atau menghukum di depan umum."
+        },
+        "Mempengaruhi": {
+          "need": "Menguji batas dan mencari tantangan atau pengakuan teman; ingin dianggap berani.",
+          "outlet": "Tantangan positif yang menguji keberanian: olahraga, kepemimpinan, atau menjaga amanah kelompok.",
+          "steps": [
+            "Tegaskan batas dengan tenang dan jelas.",
+            "Beri tanggung jawab menjaga amanah (kunci, uang kas).",
+            "Salurkan keberanian pada tantangan yang halal."
+          ],
+          "sentence": "Berani itu bagus kalau dipakai untuk kebaikan. Ayah percayakan kunci rumah padamu, jaga amanahnya.",
+          "avoid": "Mempermalukan atau menantangnya bertengkar."
+        },
+        "Berpikir": {
+          "need": "Memiliki rasa ingin tahu atau keinginan yang disembunyikan; tidak mengungkapkan kebutuhannya.",
+          "outlet": "Mengoleksi dan merawat barang miliknya sendiri; mengelola catatan kebutuhan.",
+          "steps": [
+            "Tanyakan dengan tenang apa yang diinginkannya.",
+            "Ajari cara meminta.",
+            "Sediakan tempat dan anggaran untuk koleksinya."
+          ],
+          "sentence": "Kalau ada yang kamu inginkan, bilang saja ke Ayah. Kita cari jalan yang halal.",
+          "avoid": "Menuduh sebelum bertanya."
+        },
+        "Bekerjasama": {
+          "need": "Ikut-ikutan teman atau ingin diterima kelompok; sulit menolak ajakan.",
+          "outlet": "Kegiatan kelompok yang positif dan pertemanan yang sehat; peran penjaga barang kelompok.",
+          "steps": [
+            "Kenali teman-temannya dan pengaruhnya.",
+            "Latih menolak ajakan buruk dengan kalimat tegas.",
+            "Dorong bergabung dalam kegiatan yang membangun."
+          ],
+          "sentence": "Kalau diajak mengambil barang, jawab: ‘Aku tidak mau, itu bukan milikku.’",
+          "avoid": "Melarang bergaul total tanpa memberi pengganti pertemanan."
+        },
+        "Berperasaan": {
+          "need": "Merasa kurang diperhatikan atau kosong secara emosi; mencari benda sebagai pengganti kasih sayang.",
+          "outlet": "Perhatian hangat dan kegiatan ekspresif: menulis, menggambar, atau merawat hewan.",
+          "steps": [
+            "Tambah waktu berkualitas berdua.",
+            "Dengarkan perasaannya tanpa menghakimi.",
+            "Perbaiki bersama: mengembalikan dengan didampingi."
+          ],
+          "sentence": "Ibu ingin tahu apa yang kamu rasakan. Ibu tetap sayang kamu, dan kita perbaiki bersama.",
+          "avoid": "Membuka aibnya di depan keluarga besar."
+        },
+        "Melayani": {
+          "need": "Mengambil untuk menolong atau memberi kepada orang lain; sulit membedakan batas milik.",
+          "outlet": "Berbagi dengan cara halal: bersedekah dari uang sendiri atau menyumbang tenaga.",
+          "steps": [
+            "Hargai niat menolongnya.",
+            "Ajarkan bersedekah dari milik sendiri.",
+            "Bimbing untuk mengganti dan meminta maaf."
+          ],
+          "sentence": "Niatmu menolong itu baik, tetapi harus dari milikmu sendiri. Yuk kita sisihkan uang sakumu.",
+          "avoid": "Menjadikan niat baiknya sebagai alasan pembenar."
+        }
+      }
+    },
+    {
+      "id": "melawan-dan-membangkang",
+      "name": "Melawan dan membangkang",
+      "principle": "Perlawanan sering menandakan kebutuhan akan kendali, penghargaan, atau penjelasan. Dengarkan dahulu, jelaskan alasan aturan, beri pilihan terbatas, dan tegakkan konsekuensi yang adil dan konsisten. Kritik perilakunya, bukan pribadinya.",
+      "professional": "Konsultasikan ke psikolog bila perlawanan disertai kekerasan, perusakan, pelanggaran hukum, atau penggunaan zat terlarang.",
+      "role": "Orang tua dan guru satu suara, tenang, dan konsisten, serta memberi pengakuan saat anak patuh dengan baik.",
+      "byType": {
+        "Bekerja Keras": {
+          "need": "Merasa dikritik terus dan usahanya tidak diakui.",
+          "outlet": "Tanggung jawab proyek yang hasilnya diakui.",
+          "steps": [
+            "Akui usahanya lebih dulu.",
+            "Koreksi secara pribadi.",
+            "Beri target yang jelas dan wewenang menjalankannya."
+          ],
+          "sentence": "Kerja kerasmu terlihat. Ada satu hal yang ingin Ayah bahas berdua.",
+          "avoid": "Mengkritik di depan orang lain."
+        },
+        "Mempengaruhi": {
+          "need": "Butuh kendali dan peran; aturan yang tidak dijelaskan terasa seperti penghinaan.",
+          "outlet": "Peran memimpin dan melatih adik dengan aturan yang ikut ia susun.",
+          "steps": [
+            "Jelaskan alasan aturan.",
+            "Beri dua pilihan yang dapat diterima.",
+            "Libatkan Ananda menyusun aturan keluarga."
+          ],
+          "sentence": "Ini alasan aturannya. Kamu pilih A atau B?",
+          "avoid": "Beradu argumen dengan keras atau mengancam."
+        },
+        "Berpikir": {
+          "need": "Menolak bila diburu atau tidak diberi alasan; melawan dengan diam.",
+          "outlet": "Penelitian atau tugas analisis yang memberi ruang berpikir.",
+          "steps": [
+            "Beri waktu dan alasan.",
+            "Terima pertanyaannya.",
+            "Sepakati tenggat yang masuk akal."
+          ],
+          "sentence": "Ayah jelaskan alasannya. Kamu boleh bertanya dulu, ya.",
+          "avoid": "Menuntut patuh tanpa penjelasan."
+        },
+        "Bekerjasama": {
+          "need": "Menolak karena ingin diterima temannya atau karena suasana tidak enak.",
+          "outlet": "Kerja kelompok dengan tanggung jawab bersama.",
+          "steps": [
+            "Dekati dengan hangat.",
+            "Dengarkan sudut pandangnya.",
+            "Tetapkan aturan sambil tetap menjaga hubungan."
+          ],
+          "sentence": "Ayah paham kamu ingin ikut teman. Mari kita cari jalan tengahnya.",
+          "avoid": "Mengucilkan atau menyindir temannya."
+        },
+        "Berperasaan": {
+          "need": "Merasa tidak dipahami atau terluka oleh nada yang keras.",
+          "outlet": "Ekspresi lewat tulisan dan seni.",
+          "steps": [
+            "Turunkan nada bicara.",
+            "Tanyakan perasaannya.",
+            "Sampaikan aturan dengan lembut namun jelas."
+          ],
+          "sentence": "Ayah tidak mau berdebat. Ayah ingin mengerti apa yang kamu rasakan.",
+          "avoid": "Membentak atau menyindir."
+        },
+        "Melayani": {
+          "need": "Lelah menanggung banyak beban lalu menolak.",
+          "outlet": "Peran membantu yang bergantian dan dibatasi.",
+          "steps": [
+            "Tinjau beban tugasnya.",
+            "Bagi tugas dengan lebih adil.",
+            "Hargai kebaikannya."
+          ],
+          "sentence": "Tugasmu memang banyak. Mari kita bagi supaya adil.",
+          "avoid": "Menambah tugas sebagai hukuman."
+        }
+      }
+    },
+    {
+      "id": "berkata-kasar-atau-merundung",
+      "name": "Berkata kasar atau merundung",
+      "principle": "Hentikan segera dan lindungi korban, lalu didik pelaku dengan tegas, tenang, dan adil: akui akibatnya bagi korban, minta maaf dan perbaiki, serta ajarkan cara menyalurkan marah atau kecewa. Telusuri juga apakah anak sendiri korban atau menyaksikan kekerasan.",
+      "professional": "Libatkan sekolah, konselor, atau psikolog bila terjadi berulang, melibatkan kekerasan fisik atau perundungan siber, atau bila anak sendiri menjadi korban.",
+      "role": "Orang tua dan guru mencontohkan tutur kata yang baik, memiliki aturan yang jelas di rumah dan di sekolah, dan memuji kata-kata yang santun.",
+      "byType": {
+        "Bekerja Keras": {
+          "need": "Frustrasi saat gagal atau merasa orang lain menghambat; menuntut orang lain sama kerasnya.",
+          "outlet": "Tugas yang memerlukan ketekunan dan mutu; membimbing teman dengan sabar.",
+          "steps": [
+            "Ajari menyatakan kecewa dengan kalimat sopan.",
+            "Latih empati dengan menempatkan diri sebagai orang lain.",
+            "Minta Ananda memperbaiki hubungan."
+          ],
+          "sentence": "Kamu boleh kesal. Katakan, ‘Aku kecewa’, bukan menghina.",
+          "avoid": "Membalas dengan kata-kata kasar."
+        },
+        "Mempengaruhi": {
+          "need": "Ingin dominan atau menunjukkan kekuatan di depan teman.",
+          "outlet": "Memimpin dengan melindungi yang lemah: pengurus kelas atau penjaga keadilan.",
+          "steps": [
+            "Tegaskan bahwa pemimpin melindungi.",
+            "Beri peran pelindung.",
+            "Terapkan konsekuensi yang adil bila melanggar."
+          ],
+          "sentence": "Kekuatanmu untuk melindungi, bukan menyakiti.",
+          "avoid": "Mempermalukan atau membalas dengan kekerasan."
+        },
+        "Berpikir": {
+          "need": "Menyindir tajam lewat kata-kata; menutupi rasa canggung.",
+          "outlet": "Menulis kritik yang santun dan berdebat dengan sehat.",
+          "steps": [
+            "Ajari menyampaikan kritik yang membangun.",
+            "Latih memilih kata.",
+            "Beri ruang untuk menulis."
+          ],
+          "sentence": "Sampaikan pendapatmu dengan kata yang membangun.",
+          "avoid": "Membalas sindiran dengan sindiran."
+        },
+        "Bekerjasama": {
+          "need": "Ikut-ikutan kelompok atau bercanda yang kelewatan.",
+          "outlet": "Humor yang menyenangkan semua pihak dan peran penengah.",
+          "steps": [
+            "Bedakan bercanda dan menyakiti.",
+            "Latih berhenti ketika temannya tidak nyaman.",
+            "Beri peran penengah."
+          ],
+          "sentence": "Kalau temanmu tidak tertawa, berhentilah dan minta maaf.",
+          "avoid": "Membiarkan dengan alasan “hanya bercanda”."
+        },
+        "Berperasaan": {
+          "need": "Terluka lalu melampiaskan lewat kata kasar; sulit menyampaikan perasaan.",
+          "outlet": "Menulis atau seni untuk melepas emosi.",
+          "steps": [
+            "Dengarkan lukanya.",
+            "Ajari kata-kata untuk perasaan.",
+            "Minta maaf dengan tulus."
+          ],
+          "sentence": "Ibu tahu kamu sakit hati. Ceritakan dengan kata yang baik.",
+          "avoid": "Membalas dengan kata yang lebih kasar."
+        },
+        "Melayani": {
+          "need": "Menahan lelah lalu meledak ke orang tertentu.",
+          "outlet": "Peran pelayanan yang dihargai.",
+          "steps": [
+            "Beri ruang untuk beristirahat.",
+            "Ajari menyatakan batas.",
+            "Hargai kebaikannya."
+          ],
+          "sentence": "Kalau lelah, bilang saja. Kamu boleh beristirahat.",
+          "avoid": "Menganggap kebaikannya wajib."
+        }
+      }
+    },
+    {
+      "id": "malas-dan-suka-menunda",
+      "name": "Malas dan suka menunda",
+      "principle": "Malas sering menandakan tugas terasa membosankan, terlalu berat, atau tidak bermakna bagi anak. Pecah tugas menjadi kecil, hubungkan dengan sifat bakatnya, buat jadwal rutin yang konsisten, dan beri umpan balik cepat. Periksa juga kualitas tidur, nutrisi, dan kesehatan.",
+      "professional": "Periksa ke dokter atau psikolog bila kelesuan berlangsung lama, disertai sedih berkepanjangan, kehilangan minat pada hampir semua hal, atau kesulitan fokus yang berat.",
+      "role": "Orang tua dan guru membuat jadwal bergambar, menemani lima menit pertama, dan merayakan kemajuan kecil.",
+      "byType": {
+        "Bekerja Keras": {
+          "need": "Menunda karena takut hasilnya tidak sempurna.",
+          "outlet": "Target kecil bertahap dengan standar “cukup baik”.",
+          "steps": [
+            "Mulai dengan 10 menit dahulu.",
+            "Tetapkan standar cukup baik.",
+            "Rayakan penyelesaian."
+          ],
+          "sentence": "Mulai dulu sepuluh menit. Tidak perlu sempurna.",
+          "avoid": "Menuntut hasil yang sempurna."
+        },
+        "Mempengaruhi": {
+          "need": "Bosan bila tidak ada tantangan atau pengakuan.",
+          "outlet": "Tugas berbentuk tantangan atau lomba melawan diri sendiri.",
+          "steps": [
+            "Ubah tugas menjadi tantangan.",
+            "Beri peran memimpin kelompok belajar.",
+            "Beri pengakuan terbuka secukupnya."
+          ],
+          "sentence": "Tantangan hari ini: selesaikan dalam 20 menit, kamu bisa?",
+          "avoid": "Membandingkan dengan teman secara merendahkan."
+        },
+        "Berpikir": {
+          "need": "Menunda karena terlalu lama menimbang atau menunggu siap.",
+          "outlet": "Membuat rencana tertulis lalu menjalankannya dengan tenggat.",
+          "steps": [
+            "Susun daftar langkah.",
+            "Tetapkan batas waktu keputusan.",
+            "Mulai dari langkah yang paling mudah."
+          ],
+          "sentence": "Tulis tiga langkahnya, lalu kita mulai dari yang paling mudah.",
+          "avoid": "Menuntut cepat tanpa rencana."
+        },
+        "Bekerjasama": {
+          "need": "Terdistraksi obrolan dan lebih suka bermain.",
+          "outlet": "Belajar kelompok dengan batas waktu dan peran.",
+          "steps": [
+            "Jadwalkan belajar bersama teman.",
+            "Beri tenggat yang jelas.",
+            "Beri waktu bermain setelah selesai."
+          ],
+          "sentence": "Selesaikan tugasmu dulu 30 menit, setelah itu main bareng.",
+          "avoid": "Melarang bermain sepenuhnya."
+        },
+        "Berperasaan": {
+          "need": "Perasaan tidak nyaman atau cemas membuatnya sulit memulai.",
+          "outlet": "Suasana tenang dengan pendampingan, dan tugas kreatif.",
+          "steps": [
+            "Temani memulai.",
+            "Tanyakan hambatan perasaannya.",
+            "Puji usaha kecil."
+          ],
+          "sentence": "Ibu temani lima menit pertama, ya.",
+          "avoid": "Mengejek atau membentak."
+        },
+        "Melayani": {
+          "need": "Mendahulukan kebutuhan orang lain sehingga tugasnya terabaikan.",
+          "outlet": "Belajar sambil membimbing teman.",
+          "steps": [
+            "Dahulukan tugas sendiri.",
+            "Jadwalkan waktu membantu.",
+            "Hargai keduanya."
+          ],
+          "sentence": "Tugasmu dulu, setelah itu kamu boleh membantu temanmu.",
+          "avoid": "Membebani dengan tugas orang lain."
+        }
+      }
+    }
+  ]
+}
