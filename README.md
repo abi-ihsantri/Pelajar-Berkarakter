@@ -4,7 +4,7 @@ Website parenting, tes karakter TB-40, toko, dan **Ruang Admin**.
 
 ## Ruang Admin
 - Alamat: `/admin`
-- Email khusus: `abi.ihsantri@gmail.com`
+- Email khusus: `pelajarkuberkarakter@gmail.com`
 - Login pertama kali: buat kata sandi (minimal 8 karakter)
 
 ## Deploy ke Vercel
@@ -15,3 +15,14 @@ Website parenting, tes karakter TB-40, toko, dan **Ruang Admin**.
 5. Deploy
 
 Pastikan di root repo terlihat `package.json` dan folder `src/`.
+
+## Payment gateway (Midtrans)
+Atur di Vercel → Settings → Environment Variables:
+- `MIDTRANS_SERVER_KEY`, `MIDTRANS_CLIENT_KEY`
+- `MIDTRANS_IS_PRODUCTION` = `true` (live) atau `false` (sandbox)
+
+Tanpa variabel ini checkout otomatis memakai jalur WhatsApp.
+
+## Catatan data
+Chat, pesanan, dan konten admin masih tersimpan di peramban (localStorage). Penghitung pengunjung/pembeli memakai counterapi.dev.
+Untuk chat & transaksi lintas perangkat, hubungkan ke Postgres/Neon.
