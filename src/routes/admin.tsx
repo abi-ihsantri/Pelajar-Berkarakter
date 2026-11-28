@@ -1,3 +1,4 @@
+import { AnalyticsTab, ChatTab, OrdersTab } from "@/components/admin-extra-tabs";
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { useEffect, useMemo, useState } from "react";
 import {
@@ -21,7 +22,10 @@ type Tab =
   | "produk"
   | "kuis"
   | "quote"
-  | "sponsor";
+  | "sponsor"
+  | "chat"
+  | "analitik"
+  | "transaksi";
 
 function AdminPage() {
   const store = useAdminStore();
@@ -128,6 +132,9 @@ function AdminPage() {
     { id: "kuis", label: "Kuis" },
     { id: "quote", label: "Kartu / Quote" },
     { id: "sponsor", label: "Sponsor" },
+    { id: "chat", label: "Chat Pengunjung" },
+    { id: "analitik", label: "Analitik" },
+    { id: "transaksi", label: "Transaksi" },
   ];
 
   return (
@@ -174,6 +181,9 @@ function AdminPage() {
         {tab === "kuis" && <QuizzesTab />}
         {tab === "quote" && <QuotesTab />}
         {tab === "sponsor" && <SponsorsTab />}
+        {tab === "chat" && <ChatTab />}
+        {tab === "analitik" && <AnalyticsTab />}
+        {tab === "transaksi" && <OrdersTab />}
       </div>
     </div>
   );
