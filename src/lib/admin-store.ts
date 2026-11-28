@@ -12,7 +12,7 @@ import {
 } from "@/data/catalog";
 
 /** Hanya email ini yang boleh masuk Ruang Admin */
-export const ADMIN_EMAIL = "abi.ihsantri@gmail.com";
+export const ADMIN_EMAIL = "pelajarkuberkarakter@gmail.com";
 
 export type AdminQuote = { text: string; source: string };
 export type AdminSponsor = { name: string; url: string; note: string };

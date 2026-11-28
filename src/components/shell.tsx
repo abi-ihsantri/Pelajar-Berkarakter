@@ -5,21 +5,23 @@ import { CATEGORY_LABELS, type Product } from "@/data/catalog";
 import { cn } from "@/lib/cn";
 import { idr } from "@/lib/format";
 import { useCart, useFamily, useJournal } from "@/lib/store";
+import { FloatingActions } from "@/components/floating";
+import { useSite } from "@/lib/site-store";
 
 const NAV = [
   { href: "/", label: "Beranda" },
-  { href: "/tes-karakter", label: "Tes Gratis" },
+  { href: "/tes-karakter", label: "Tes Karakter Gratis" },
   { href: "/sifat", label: "40 Sifat" },
   { href: "/keluarga", label: "Keluarga" },
-  { href: "/parenting", label: "Parenting" },
-  { href: "/toko", label: "Toko" },
+  { href: "/parenting", label: "Artikel/Video Parenting" },
+  { href: "/toko", label: "Toko Pelajar Berkarakter" },
 ] as const;
 
 const MORE = [
   { href: "/dampingi", label: "Dampingi Masalah" },
   { href: "/jurnal", label: "Jurnal Adab" },
   { href: "/kartu", label: "Kartu Parenting" },
-  { href: "/gimik", label: "Kuis & Kutipan" },
+  { href: "/gimik", label: "Gimik" },
   { href: "/admin", label: "Ruang Admin" },
 ] as const;
 
@@ -40,6 +42,11 @@ export function Shell({ children }: { children: ReactNode }) {
     void useFamily.persist.rehydrate();
     void useJournal.persist.rehydrate();
   }, []);
+
+  useEffect(() => {
+    void useSite.persist.rehydrate();
+    useSite.getState().trackView(pathname);
+  }, [pathname]);
 
   useEffect(() => {
     setMenu(false);
@@ -204,14 +211,7 @@ export function Shell({ children }: { children: ReactNode }) {
         </p>
       </footer>
 
-      <a
-        href="https://wa.me/6287771245600"
-        target="_blank"
-        rel="noreferrer"
-        className="fixed right-4 bottom-4 z-30 inline-flex h-12 items-center rounded-full bg-forest px-5 text-sm font-bold text-paper shadow-lg hover:bg-teal"
-      >
-        Tanya WhatsApp
-      </a>
+      <FloatingActions />
 
       {open && (
         <div className="fixed inset-0 z-50 flex justify-end bg-ink/40" role="presentation" onClick={() => setOpen(false)}>

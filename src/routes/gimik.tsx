@@ -4,6 +4,7 @@ import { QUIZ, QUOTES } from "@/data/catalog";
 import { useAdminStore } from "@/lib/admin-store";
 import { PageHero } from "@/components/shell";
 import { cn } from "@/lib/cn";
+import { GuessGame, TtsPanel } from "@/components/gimik-extras";
 
 export const Route = createFileRoute("/gimik")({ component: GimikPage });
 
@@ -40,8 +41,8 @@ function GimikPage() {
     <>
       <PageHero
         kicker="Gimik"
-        title="Kuis adab singkat"
-        lede="Enam soal untuk orang tua dan guru. Bukan nilai rapor — hanya cara mengingat cara berinteraksi."
+        title="Gimik: kuis, suara & tebak karakter"
+        lede="Kuis parenting, dengarkan tips parenting lewat suara, dan tebak karakter berdasarkan konsep TB-40."
       />
       <section className="mx-auto grid max-w-6xl gap-6 px-4 py-8 lg:grid-cols-5">
         <div className="lg:col-span-3">
@@ -109,6 +110,10 @@ function GimikPage() {
           <blockquote className="mt-3 font-serif text-2xl text-navy">“{quote.text}”</blockquote>
           <p className="mt-3 text-sm font-semibold text-forest">{quote.source}</p>
         </aside>
+      </section>
+      <section className="mx-auto grid max-w-6xl gap-6 px-4 pb-10 lg:grid-cols-2">
+        <TtsPanel />
+        <GuessGame />
       </section>
     </>
   );

@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from "react";
 import { CITIES, CONTENTS, PRODUCTS, SPONSORS } from "@/data/catalog";
 import { idr } from "@/lib/format";
 import { useCart } from "@/lib/store";
+import { getBuyers, hitVisitors } from "@/lib/site-store";
 
 export const Route = createFileRoute("/")({ component: Home });
 
@@ -21,6 +22,13 @@ function Home() {
   const [city, setCity] = useState("Jakarta");
   const [times, setTimes] = useState<Record<string, string> | null>(null);
   const [prayerError, setPrayerError] = useState(false);
+  const [visitors, setVisitors] = useState<number | null>(null);
+  const [buyers, setBuyers] = useState<number | null>(null);
+
+  useEffect(() => {
+    void hitVisitors().then(setVisitors);
+    void getBuyers().then(setBuyers);
+  }, []);
 
   useEffect(() => {
     const ctrl = new AbortController();
@@ -181,10 +189,10 @@ function Home() {
         </div>
         <ul className="grid grid-cols-2 gap-3 lg:col-span-2">
           {[
-            ["40", "Sifat bakat"],
-            ["6", "Kepribadian"],
-            ["16", "Konten parenting"],
-            ["13", "Produk"],
+            [visitors === null ? "…" : visitors.toLocaleString("id-ID"), "Pengunjung"],
+            [buyers === null ? "…" : buyers.toLocaleString("id-ID"), "Pembeli"],
+            [String(CONTENTS.length), "Konten parenting"],
+            ["6", "Tipe kepribadian TB-40"],
           ].map(([n, label]) => (
             <li key={label} className="flex flex-col justify-center rounded-3xl border border-line bg-card p-5">
               <span className="font-serif text-4xl font-bold text-teal">{n}</span>
